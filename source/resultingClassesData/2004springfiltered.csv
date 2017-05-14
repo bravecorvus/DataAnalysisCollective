@@ -1,0 +1,9 @@
+"","clbid","credits","crsid","departments","description","halfcredit","instructors","level","locations","name","notes","number","pn","prerequisites","section","semester","status","term","times","title","type","year","enrolled"
+"27",9153,1,63,"['ART']","",NA,"['Heather M. Brooks-Shirey']",200,"['DC 305', 'DC 305']","African Art History","",269,"False","False","",3,"O",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Research",2004,29
+"45",9171,1,78,"['ASIAN']","",NA,"['Karil J. Kucera']",100,"['DC 305']","Asian Cultures","",121,"False","False","",3,"C",20043,"['MWF 0200-0255PM']","","Research",2004,35
+"52",9178,1,97,"['ASIAN']","",NA,"['Phyllis Hyland Larson']",300,"","IR/Asian Studies Sem","",398,"False","False","A",3,"O",20043,"","","Research",2004,1
+"389",9515,1,602,"['HIST']","",NA,"['Dolores Peters']",200,"['HH 501']","Wmn/Gender/Mod Europe","",239,"False","False","",3,"O",20043,"['MWF 1045-1140']","","Research",2004,24
+"395",9521,1,618,"['HIST']","",NA,"['Michael Fitzgerald']",200,"['RML 577', 'RML 577']","African-American Hist","",277,"False","False","",3,"C",20043,"['T 0935-1100', 'Th 0930-1050']","","Research",2004,33
+"803",9929,1,1306,"['SOAN']","",NA,"['Bruce Nordstrom-Loeb']",200,"['OM 031']","Race/Class-Am Culture","",244,"False","False","A",3,"C",20043,"['MWF 1045-1140']","","Research",2004,31
+"804",9930,1,1306,"['SOAN']","",NA,"['Grant P. Arndt']",200,"['RML 577']","Race/Class-Am Culture","",244,"False","False","B",3,"C",20043,"['MWF 1150-1245PM']","","Research",2004,27
+"807",9933,1,1311,"['SOAN']","",NA,"['Bruce Nordstrom-Loeb']",200,"['OM 031']","Gender/X-Cult/Perspec","",261,"False","False","",3,"C",20043,"['MWF 0200-0255PM']","","Research",2004,34

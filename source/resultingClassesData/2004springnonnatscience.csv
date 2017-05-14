@@ -1,0 +1,539 @@
+"","clbid","credits","crsid","departments","description","halfcredit","instructors","level","locations","name","notes","number","pn","prerequisites","section","semester","status","term","times","title","type","year","enrolled"
+"1",9127,1,9,"['AMST']","",NA,"['Judy Kutulas']",200,"['SC 188', 'SC 188']","Top: Amer Adolescence","",209,"False","False","",3,"C",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Topic",2004,32
+"2",9128,1,11,"['AMST']","",NA,"['Staff']",200,"","Academic Internship","",294,"True","False","",3,"O",20043,"","","Research",2004,0
+"3",9129,1,12,"['AMST']","",NA,"['James Farrell']",200,"","IS/Education in Amer","",298,"False","False","",3,"O",20043,"","","Research",2004,1
+"4",9130,1,12,"['AMST']","",NA,"['James Farrell']",200,"","IS/Habits of My Heart","",298,"False","False","A",3,"O",20043,"","","Research",2004,1
+"5",9131,1,12,"['AMST']","",NA,"['James Farrell']",200,"","IS/Am Political Value","",298,"False","False","B",3,"O",20043,"","","Research",2004,1
+"6",9132,1,13,"['AMST']","",NA,"['Mark Allister']",300,"['RML 421']","Sem: Complex Culture","",301,"False","False","",3,"C",20043,"['MWF 0200-0255PM']","","Seminar",2004,16
+"7",9133,1,17,"['AFAM']","",NA,"['Michael Fitzgerald']",200,"['RML 577']","Sem: Africa/Americas","",232,"False","False","",3,"C",20043,"['MWF 0905-1000']","","Seminar",2004,24
+"18",9144,1,32,"['ART']","",NA,"['Nancy M. Thompson', 'Matthew Rohn']",100,"['DC 305']","Intro/Art History II","",151,"False","False","",3,"C",20043,"['MWF 1045-1140']","","Research",2004,48
+"19",9145,1,34,"['ART']","",NA,"['Wendell Arneson']",200,"['DC 116']","Watercolor Painting","",222,"False","False","",3,"C",20043,"['MWF 1255-0255PM']","","Research",2004,22
+"20",9146,1,36,"['ART']","",NA,"['John Saurer']",200,"['DC 105', 'DC 105']","Sculpt: Metal Direct","",224,"False","False","",3,"C",20043,"['T 0800-1100', 'Th 0800-1050']","","Research",2004,15
+"21",9147,1,38,"['ART']","",NA,"['John Saurer']",200,"['DC 212', 'DC 212']","Printmkg: Relief/Litho","",226,"False","False","",3,"C",20043,"['T 1145-0245PM', 'Th 1245-0345PM']","","Research",2004,12
+"22",9148,1,40,"['ART']","",NA,"['Patrick T. Kelley']",200,"['DC 100', 'DC 100']","Computer Gen Imagery","",228,"False","False","",3,"O",20043,"['T 0800-1100', 'Th 0800-1050']","","Research",2004,10
+"23",9149,1,43,"['ART']","",NA,"['Mary Griep']",200,"['DC 216']","Figure Drawing","",232,"False","False","",3,"O",20043,"['MWF 0800-1000']","","Research",2004,18
+"24",9150,1,51,"['ART']","",NA,"['Matthew Rohn']",200,"['DC 305']","Art 1880-1950","",252,"False","False","",3,"C",20043,"['MWF 0905-1000']","","Research",2004,26
+"25",9151,1,53,"['ART']","",NA,"['Nancy M. Thompson']",200,"['DC 305', 'DC 305']","Italian Renaissance","",254,"False","False","",3,"C",20043,"['T 0935-1100', 'Th 0930-1050']","","Research",2004,32
+"26",9152,1,58,"['ART']","",NA,"['Karil J. Kucera']",200,"['DC 305']","Arts of Japan","",260,"False","False","",3,"C",20043,"['MWF 1150-1245PM']","","Research",2004,30
+"27",9153,1,63,"['ART']","",NA,"['Heather M. Brooks-Shirey']",200,"['DC 305', 'DC 305']","African Art History","",269,"False","False","",3,"O",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Research",2004,29
+"28",9154,1,68,"['ART']","",NA,"['Margaret Ojala']",200,"","Academic Internship","",294,"True","False","",3,"O",20043,"","","Research",2004,2
+"29",9155,1,69,"['ART']","",NA,"['Ron Gallas']",200,"","IS/Advanced Ceramics","",298,"False","False","",3,"O",20043,"","","Research",2004,3
+"30",9156,1,69,"['ART']","",NA,"['Wendell Arneson']",200,"","IS/Painting From Life","",298,"False","False","A",3,"O",20043,"","","Research",2004,1
+"31",9157,1,69,"['ART']","",NA,"['Nancy M. Thompson']",200,"","IS/Art Inst Catalog","",298,"False","False","B",3,"O",20043,"","","Research",2004,1
+"32",9158,1,69,"['ART']","",NA,"['Ron Gallas']",200,"","IS/Ceramic Study","",298,"False","False","C",3,"O",20043,"","","Research",2004,1
+"33",9159,1,69,"['ART']","",NA,"['Ron Gallas']",200,"","IS/Advanced Tableware","",298,"False","False","D",3,"O",20043,"","","Research",2004,1
+"34",9160,1,69,"['ART']","",NA,"['Wendell Arneson']",200,"","IS/Advanced Painting","",298,"False","False","E",3,"O",20043,"","","Research",2004,1
+"35",9161,1,69,"['ART']","",NA,"['Ron Gallas']",200,"","IS/Functional Pottery","",298,"False","False","F",3,"O",20043,"","","Research",2004,1
+"36",9162,1,69,"['ART']","",NA,"['Ron Gallas']",200,"","IS/Wheel Ceramics","",298,"False","False","G",3,"O",20043,"","","Research",2004,1
+"37",9163,1,69,"['ART']","",NA,"['Ron Gallas']",200,"","IS/Air Blown Ceramics","",298,"False","False","H",3,"O",20043,"","","Research",2004,1
+"38",9164,1,69,"['ART']","",NA,"['Ron Gallas']",200,"","IS/Ceramic Sections","",298,"False","False","I",3,"O",20043,"","","Research",2004,1
+"39",9165,1,69,"['ART']","",NA,"['Patrick T. Kelley']",200,"","IS/Animation","",298,"False","False","J",3,"O",20043,"","","Research",2004,1
+"40",9166,1,71,"['ART']","",NA,"['John Saurer']",300,"['DC 305']","Sr Studies/Studio Art","",343,"False","False","",3,"O",20043,"['Th 0700-1000PM']","","Research",2004,39
+"41",9167,1,72,"['ART']","",NA,"['Nancy M. Thompson']",300,"['DC 204', 'DC 204']","Methods of Art Hist","",350,"False","False","",3,"O",20043,"['T 0120-0245PM', 'Th 0215-0335PM']","","Research",2004,7
+"42",9168,1,73,"['ART']","",NA,"['Jill Ewald']",300,"","Academic Internship","",394,"True","False","",3,"O",20043,"","","Research",2004,1
+"43",9169,1,75,"['ART']","",NA,"['Staff']",300,"","IR/","",398,"False","False","",3,"O",20043,"","","Research",2004,0
+"44",9170,1,77,"['ASIAN']","",NA,"['Robert Entenmann']",100,"['HH 514', 'HH 514']","East Asia & the West","",112,"False","False","",3,"C",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Research",2004,19
+"45",9171,1,78,"['ASIAN']","",NA,"['Karil J. Kucera']",100,"['DC 305']","Asian Cultures","",121,"False","False","",3,"C",20043,"['MWF 0200-0255PM']","","Research",2004,35
+"46",9172,1,87,"['ASIAN']","",NA,"['Phyllis Hyland Larson']",200,"['RML 515']","Mod Japanese Lit-Tr","",235,"False","False","",3,"C",20043,"['MWF 1150-1245PM']","","Research",2004,27
+"47",9173,1,93,"['ASIAN']","",NA,"['Phyllis Hyland Larson']",200,"","Academic Internship","",294,"True","False","",3,"O",20043,"","","Research",2004,1
+"48",9174,1,94,"['ASIAN']","",NA,"['Phyllis Hyland Larson']",200,"","IS/Film/Lit in Japan","",298,"False","False","",3,"O",20043,"","","Research",2004,2
+"49",9175,1,95,"['ASIAN']","",NA,"['Karil J. Kucera']",300,"['DC 204']","Buddhism: Text-Image","",310,"False","False","",3,"O",20043,"['M 0700-1000PM']","","Research",2004,14
+"50",9176,1,96,"['ASIAN']","",NA,"['Staff']",300,"","Academic Internship","",394,"True","False","",3,"O",20043,"","","Research",2004,0
+"51",9177,1,97,"['ASIAN']","",NA,"['Karil J. Kucera']",300,"","IR/Korean Literature","",398,"False","False","",3,"O",20043,"","","Research",2004,2
+"52",9178,1,97,"['ASIAN']","",NA,"['Phyllis Hyland Larson']",300,"","IR/Asian Studies Sem","",398,"False","False","A",3,"O",20043,"","","Research",2004,1
+"96",9222,1,177,"['AMCON']","",NA,"['Mary Titus']",100,"['RML 515']","Dem Vistas: 1800-1900","",102,"False","False","A",3,"C",20043,"['MWF 0200-0255PM']","","Research",2004,23
+"97",9223,1,177,"['AMCON']","",NA,"['Eric J. Fure-Slocum']",100,"['RML 577']","Dem Vistas: 1800-1900","",102,"False","False","B",3,"C",20043,"['MWF 0200-0255PM']","","Research",2004,23
+"98",9224,1,179,"['AMCON']","",NA,"['Matthew Rohn']",200,"['DC 204']","Pur/Happiness: 1920-00","",202,"False","False","A",3,"C",20043,"['MWF 1255-0150PM']","","Research",2004,10
+"99",9225,1,179,"['AMCON']","",NA,"['William A. Gorton']",200,"['DC 204']","Pur/Happiness: 1920-00","",202,"False","False","B",3,"C",20043,"['MWF 1255-0150PM']","","Research",2004,12
+"143",9269,1,231,"['CLASS']","",NA,"['Paul P. Moran']",200,"['OM 031', 'OM 031']","Golden Age of Rome-Tr","",244,"False","False","",3,"C",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Research",2004,29
+"144",9270,1,233,"['CLASS']","",NA,"['Staff']",200,"","Academic Internship","",294,"True","False","",3,"O",20043,"","","Research",2004,0
+"145",9271,1,234,"['CLASS']","",NA,"['Staff']",200,"","IS/","",298,"False","False","",3,"O",20043,"","","Research",2004,0
+"146",9272,1,235,"['CLASS']","",NA,"['Staff']",300,"","Academic Internship","",394,"True","False","",3,"O",20043,"","","Research",2004,0
+"147",9273,1,236,"['CLASS']","",NA,"['Anne Groton']",300,"","IR/Anc Epic in Cntxt","",398,"False","False","",3,"O",20043,"","","Research",2004,1
+"148",9274,1,236,"['CLASS']","",NA,"['Tarik Wareh']",300,"","IR/Plato's Letters","",398,"False","False","A",3,"O",20043,"","","Research",2004,1
+"149",9275,1,239,"['CHIN']","",NA,"['Richard Bodman']",100,"['OM 001', 'OM 001']","Beginning Chinese II","",112,"False","False","A",3,"O",20043,"['MWF 0905-1000', 'T 0800-0925']","","Research",2004,2
+"150",9276,1,239,"['CHIN']","",NA,"['Richard Bodman']",100,"['OM 001', 'OM 001']","Beginning Chinese II","",112,"False","False","B",3,"O",20043,"['MWF 1150-1245PM', 'T 0935-1100']","","Research",2004,6
+"151",9277,1,239,"['CHIN']","",NA,"['Richard Bodman']",100,"['OM 001', 'OM 001']","Beginning Chinese II","",112,"False","False","C",3,"O",20043,"['MWF 0905-1000', 'T 0935-1100']","","Research",2004,6
+"152",9278,1,239,"['CHIN']","",NA,"['Richard Bodman']",100,"['OM 001', 'OM 001']","Beginning Chinese II","",112,"False","False","D",3,"O",20043,"['MWF 1150-1245PM', 'T 0800-0925']","","Research",2004,6
+"153",9279,1,243,"['CHIN']","",NA,"['Pin Pin Wan']",200,"['OM 001', 'OM 002', 'OM 002']","Intermed Chinese II","",232,"False","False","",3,"O",20043,"['MWF 1045-1140', 'T 1005-1100', 'Th 0955-1050']","","Research",2004,16
+"154",9280,1,246,"['CHIN']","",NA,"['Pin Pin Wan']",200,"['OM 003']","Advanced Chinese II","",252,"False","False","",3,"O",20043,"['MWF 0905-1000']","","Research",2004,8
+"155",9281,1,248,"['CHIN']","",NA,"['Staff']",200,"","Academic Internship","",294,"True","False","",3,"O",20043,"","","Research",2004,0
+"156",9282,1,249,"['CHIN']","",NA,"['Staff']",200,"","IS/","",298,"False","False","",3,"O",20043,"","","Research",2004,0
+"157",9283,1,251,"['CHIN']","",NA,"['Staff']",300,"","Academic Internship","",394,"True","False","",3,"O",20043,"","","Research",2004,0
+"158",9284,1,252,"['CHIN']","",NA,"['Staff']",300,"","IR/","",398,"False","False","",3,"O",20043,"","","Research",2004,0
+"159",9285,1,259,"['ECON']","",NA,"['Siriwan Chutikamoltham']",100,"['SC 170', 'SC 170']","Principles of Econ","",121,"False","False","A",3,"C",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Research",2004,24
+"160",9286,1,259,"['ECON']","",NA,"['Mary Ann Emery']",100,"['HH 413']","Principles of Econ","",121,"False","False","B",3,"C",20043,"['MWF 0905-1000']","","Research",2004,28
+"161",9287,1,259,"['ECON']","",NA,"['Daniel B. Kramer']",100,"['HH 413']","Principles of Econ","",121,"False","False","C",3,"C",20043,"['MWF 1255-0150PM']","","Research",2004,28
+"162",9288,1,259,"['ECON']","",NA,"['Terry J. Fitzgerald']",100,"['SC 184', 'SC 184']","Principles of Econ","",121,"False","False","D",3,"C",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Research",2004,22
+"163",9289,1,259,"['ECON']","",NA,"['Terry J. Fitzgerald']",100,"['HH 403', 'HH 403']","Principles of Econ","",121,"False","False","E",3,"C",20043,"['T 0800-0925', 'Th 0800-0920']","","Research",2004,27
+"164",9290,1,263,"['ECON']","",NA,"['Daniel B. Kramer']",200,"['HH 501']","Intro to Game Theory","",222,"False","False","",3,"C",20043,"['MWF 1150-1245PM']","","Research",2004,38
+"165",9291,1,264,"['ECON']","",NA,"['Edward David Emery']",200,"['HH 516']","Economic Methods","",233,"False","False","",3,"O",20043,"['MWF 1150-1245PM']","","Research",2004,16
+"166",9292,1,268,"['ECON']","",NA,"['David Schodt']",200,"['SC 184', 'SC 184']","Economic Development","",243,"False","False","",3,"C",20043,"['T 0120-0245PM', 'Th 0215-0335PM']","","Research",2004,27
+"167",9293,1,269,"['ECON']","",NA,"['Anthony Becker']",200,"['HH 413', 'HH 413']","Bus, Govt & Marketpl","",244,"False","False","",3,"C",20043,"['T 0935-1100', 'Th 0930-1050']","","Research",2004,21
+"168",9294,1,271,"['ECON']","",NA,"['Paul Wojick']",200,"['HH 413', 'HH 413']","History Econ Thought","",247,"False","False","",3,"C",20043,"['T 0800-0925', 'Th 0800-0920']","","Research",2004,28
+"169",9295,1,274,"['ECON']","",NA,"['Mark Pernecky']",200,"['HH 501', 'HH 501']","Macroeconomic Theory","",261,"False","False","A",3,"C",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Research",2004,21
+"170",9296,1,274,"['ECON']","",NA,"['Mark Pernecky']",200,"['OM 031', 'OM 031']","Macroeconomic Theory","",261,"False","False","B",3,"O",20043,"['T 0800-0925', 'Th 0800-0920']","","Research",2004,15
+"171",9297,1,275,"['ECON']","",NA,"['Edward David Emery']",200,"['HH 403']","Microeconomic Theory","",262,"False","False","A",3,"O",20043,"['MWF 0800-0855']","","Research",2004,14
+"172",9298,1,275,"['ECON']","",NA,"['Edward David Emery']",200,"['HH 403']","Microeconomic Theory","",262,"False","False","B",3,"C",20043,"['MWF 0905-1000']","","Research",2004,22
+"173",9299,1,276,"['ECON']","",NA,"['Mary Ann Emery']",200,"","Academic Internship","",294,"True","False","",3,"O",20043,"","","Research",2004,1
+"174",9300,1,277,"['ECON']","",NA,"['Staff']",200,"","IS/","",298,"False","False","",3,"O",20043,"","","Research",2004,0
+"175",9301,1,278,"['ECON']","",NA,"['Rebecca Judge']",300,"['HH 515']","Econ of Public Policy","",371,"False","False","",3,"O",20043,"['MWF 0905-1000']","","Research",2004,14
+"176",9302,1,279,"['ECON']","",NA,"['Terry J. Fitzgerald']",300,"['HH 515', 'HH 515']","Money and Banking","",374,"False","False","",3,"O",20043,"['T 0935-1100', 'Th 0930-1050']","","Research",2004,9
+"177",9303,1,281,"['ECON']","",NA,"['Veronika Dolar']",300,"['HH 403']","International Econ","",382,"False","False","",3,"O",20043,"['M 0700-1000PM']","","Research",2004,13
+"178",9304,1,283,"['ECON']","",NA,"['Staff']",300,"","Senior Project","",389,"False","False","",3,"O",20043,"","","Research",2004,0
+"179",9305,1,284,"['ECON']","",NA,"['Staff']",300,"","Academic Internship","",394,"True","False","",3,"O",20043,"","","Research",2004,0
+"180",9306,1,285,"['ECON']","",NA,"['Mark Pernecky']",300,"","IR/Keynesian/Fascism","",398,"False","False","",3,"O",20043,"","","Research",2004,1
+"181",9307,1,285,"['ECON']","",NA,"['Anthony Becker']",300,"","IR/Adv Time-Ser Anlys","",398,"False","False","A",3,"O",20043,"","","Research",2004,1
+"182",9308,1,285,"['ECON']","",NA,"['Terry J. Fitzgerald']",300,"","IR/Economic Rebounds","",398,"False","False","B",3,"O",20043,"","","Research",2004,1
+"198",9324,1,311,"['EDUC']","",NA,"['Robert W. McClure']",200,"['FH 10']","Educ Psychology","",290,"False","False","A",3,"O",20043,"['MWF 0905-1000']","","Research",2004,22
+"199",9325,1,311,"['EDUC']","",NA,"['John Welckle']",200,"['FH 10']","Educ Psychology","",290,"False","False","B",3,"C",20043,"['MWF 1045-1140']","","Research",2004,21
+"200",9326,1,311,"['EDUC']","",NA,"['Daniel R. Forstner']",200,"['FH 10', 'FH 10']","Educ Psychology","",290,"False","False","C",3,"C",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Research",2004,30
+"205",9331,1,313,"['EDUC']","",NA,"['Staff']",200,"","Academic Internship","",294,"True","False","",3,"O",20043,"","","Research",2004,0
+"206",9332,1,314,"['EDUC']","",NA,"['Daniel R. Forstner']",200,"","IS/Multicultural Educ","",298,"False","False","",3,"O",20043,"","","Research",2004,1
+"209",9335,1,321,"['EDUC']","",NA,"['Maria L. Kelly']",300,"['FH 10L']","Principles of Educ","",330,"False","False","A",3,"C",20043,"['MWF 0905-1000']","","Research",2004,15
+"210",9336,1,321,"['EDUC']","",NA,"['Elizabeth A. Leer']",300,"['FH 10L', 'FH 10L']","Principles of Educ","",330,"False","False","B",3,"C",20043,"['T 0935-1100', 'Th 0930-1050']","","Research",2004,7
+"211",9337,1,322,"['EDUC']","",NA,"['John Welckle']",300,"['FH 10']","Social Studies Persp","",334,"False","False","",3,"C",20043,"['MWF 0200-0255PM']","","Research",2004,7
+"212",9338,1,323,"['EDUC']","",NA,"['Karna E. Hauck']",300,"['DC 305']","Teaching of Art, K-12","",341,"False","False","",3,"C",20043,"['M 0600-0900PM']","","Research",2004,4
+"213",9339,1,325,"['EDUC']","",NA,"['Elizabeth A. Leer']",300,"['FH 10L', 'FH 10L']","Tchg of Comm Arts/Lit","",345,"False","False","",3,"C",20043,"['T 0120-0245PM', 'Th 0215-0335PM']","","Research",2004,17
+"214",9340,1,327,"['EDUC']","",NA,"['Martha Wallace']",300,"['SC 184', 'SC 184', 'TBA']","Tchg of Mathematics","",350,"False","False","",3,"C",20043,"['T 0935-1100', 'Th 0930-1050', 'W 1255-0150PM']","","Research",2004,7
+"215",9341,1,328,"['EDUC']","",NA,"['Joseph McClanahan']",300,"['FH 10L']","Tchg of World Lang","",353,"False","False","",3,"C",20043,"['MWF 0800-0855']","","Research",2004,4
+"216",9342,1,329,"['EDUC']","",NA,"['Linda Berger']",300,"['CHM 233', 'CHM 233']","Tchg Music-Elem Schls","",355,"False","False","",3,"C",20043,"['T 0120-0245PM', 'Th 0215-0335PM']","","Research",2004,25
+"217",9343,1,333,"['EDUC']","",NA,"['Char Anne Bezanson']",300,"['FH 10L']","Tchg of Science","",364,"False","False","",3,"C",20043,"['T 0700-1000PM']","","Research",2004,12
+"218",9344,1,334,"['EDUC']","",NA,"['Maria L. Kelly', 'Larry Fowler']",300,"['FH 10', 'FH 10']","Tchg of Soc Studies","",365,"False","False","",3,"C",20043,"['MTh 0600-0730PM', 'MWF 0800-0855']","","Research",2004,13
+"223",9349,1,337,"['EDUC']","",NA,"['Heather Campbell']",300,"['FH 10']","The Exceptional Child","",376,"False","False","A",3,"C",20043,"['Th 0800-0920']","","Research",2004,1
+"224",9350,1,337,"['EDUC']","",NA,"['Heather Campbell']",300,"['FH 10']","The Exceptional Child","",376,"False","False","B",3,"C",20043,"['Th 0930-1050']","","Research",2004,2
+"229",9355,1,344,"['EDUC']","",NA,"['Staff']",300,"","Academic Internship","",394,"True","False","",3,"O",20043,"","","Research",2004,0
+"230",9356,1,345,"['EDUC']","",NA,"['Mark Schelske']",300,"","IR/Earth/Evolution/Ed","",398,"False","False","",3,"O",20043,"","","Research",2004,1
+"261",9387,1,392,"['ENGL']","",NA,"['Karen E. Marsalek']",100,"['RML 525']","Literary Studies","",185,"False","False","A",3,"C",20043,"['MWF 1150-1245PM']","","Research",2004,21
+"262",9388,1,392,"['ENGL']","",NA,"['Carol Holly']",100,"['RML 515', 'RML 515']","Literary Studies","",185,"False","False","B",3,"C",20043,"['T 0935-1100', 'Th 0930-1050']","","Research",2004,24
+"263",9389,1,392,"['ENGL']","",NA,"['Eliot K. Wilson']",100,"['RML 421', 'RML 421']","Literary Studies","",185,"False","False","C",3,"C",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Research",2004,27
+"264",9390,1,397,"['ENGL']","",NA,"['Karen Cherewatuk', 'Mary E. Trull']",200,"['RML 525']","Lit in Engl to 1650","",221,"False","False","A",3,"C",20043,"['MWF 0905-1000']","","Research",2004,37
+"265",9391,1,397,"['ENGL']","",NA,"['Karen Cherewatuk', 'Mary E. Trull']",200,"['RML 525', 'BMC 109']","Lit in Engl to 1650","",221,"False","False","B",3,"C",20043,"['MW 0905-1000', 'F 0905-1000']","","Research",2004,0
+"266",9392,1,397,"['ENGL']","",NA,"['Karen Cherewatuk', 'Mary E. Trull']",200,"['RML 525']","Lit in Engl to 1650","",221,"False","False","C",3,"C",20043,"['MW 0905-1000', 'F 0800-0855']","","Research",2004,0
+"267",9393,1,397,"['ENGL']","",NA,"['Karen Cherewatuk', 'Mary E. Trull']",200,"['RML 525', 'RML 520']","Lit in Engl to 1650","",221,"False","False","D",3,"C",20043,"['MW 0905-1000', 'F 0800-0855']","","Research",2004,0
+"268",9394,1,399,"['ENGL']","",NA,"['Mark Allister', 'Mary Titus']",200,"['RML 525']","Lit in Engl 1650-1850","",222,"False","False","A",3,"C",20043,"['MWF 1045-1140']","","Research",2004,42
+"269",9395,1,399,"['ENGL']","",NA,"['Mark Allister', 'Mary Titus']",200,"['RML 525', 'RML 421']","Lit in Engl 1650-1850","",222,"False","False","B",3,"C",20043,"['MW 1045-1140', 'F 1045-1140']","","Research",2004,0
+"270",9396,1,399,"['ENGL']","",NA,"['Mark Allister', 'Mary Titus']",200,"['RML 525', 'TBA']","Lit in Engl 1650-1850","",222,"False","False","C",3,"C",20043,"['MW 1045-1140', 'F 0905-1000']","","Research",2004,0
+"271",9397,1,404,"['ENGL']","A study of the Arthurian legend, from its Celtic origins through the classic medieval romances of Chretien and Malory, to Victorian adaptations of Tennyson and the Pre-Raphaelites, to contemporary novels and film. Analysis focuses on the myths characteristic forms and ideas; the errant knights adventures, the grail quest, triangulating desire, and adulterous love.",NA,"['Karen Cherewatuk']",200,"['RML 421']","King Arthur Thru Ages","",227,"False","False","",3,"C",20043,"['MWF 1150-1245PM']","Chaucer and Ethics","Research",2004,26
+"272",9398,1,410,"['ENGL']","",NA,"['Joan Hepburn']",200,"['RML 525', 'RML 525']","Amer Racial/Multi Lit","",245,"False","False","",3,"O",20043,"['T 0800-0925', 'Th 0800-0920']","","Research",2004,47
+"273",9399,1,411,"['ENGL']","",NA,"['Richard Buckstead']",200,"['RML 525']","Post-Colonial: India","",247,"False","False","",3,"C",20043,"['MWF 1255-0150PM']","","Research",2004,27
+"274",9400,1,413,"['ENGL']","",NA,"['Mary V. Winstead']",200,"['RML 420', 'RML 420']","Creative Wrtg: Non-Fic","",251,"False","False","",3,"C",20043,"['T 0120-0245PM', 'Th 0215-0335PM']","","Research",2004,17
+"275",9401,1,417,"['ENGL']","",NA,"['Jan C. Hill']",200,"['RML 515', 'RML 515']","Journalistic Writing","",255,"False","False","",3,"C",20043,"['T 0120-0245PM', 'Th 0215-0335PM']","","Research",2004,17
+"276",9402,1,418,"['ENGL']","",NA,"['James Heynen']",200,"['RML 525', 'RML 525']","Creat Wrtg: Fict/Poet","",257,"False","False","",3,"C",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Research",2004,30
+"277",9403,1,422,"['ENGL']","",NA,"['Richard DuRocher']",200,"['RML 420']","Utopias","",272,"False","False","",3,"C",20043,"['MWF 1255-0150PM']","","Research",2004,22
+"278",9404,1,423,"['ENGL']","",NA,"['Karen E. Marsalek']",200,"['RML 525']","Eng Lang/Linguistics","",274,"False","False","",3,"C",20043,"['MWF 0200-0255PM']","","Research",2004,33
+"279",9405,1,429,"['ENGL']","",NA,"['Diana Postlethwaite']",200,"['RML 525']","19th-21st C Novels","",283,"False","False","",3,"C",20043,"['MWF 0800-0855']","","Research",2004,29
+"280",9406,1,431,"['ENGL']","",NA,"['Carol Holly']",200,"['RML 515', 'RML 515']","Women & Literature","",286,"False","False","",3,"O",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Research",2004,25
+"281",9407,1,433,"['ENGL']","",NA,"['Staff']",200,"","Academic Internship","",294,"True","False","",3,"O",20043,"","","Research",2004,0
+"282",9408,1,434,"['ENGL']","",NA,"['Mary E. Trull']",200,"","IS/Intro Film Theory","",298,"False","False","",3,"O",20043,"","","Research",2004,1
+"283",9409,1,434,"['ENGL']","",NA,"['Eliot K. Wilson']",200,"","IS/Short Fiction","",298,"False","False","A",3,"O",20043,"","","Research",2004,1
+"284",9410,1,434,"['ENGL']","",NA,"['Eliot K. Wilson']",200,"","IS/Publishing Poetry","",298,"False","False","B",3,"O",20043,"","","Research",2004,1
+"285",9411,1,434,"['ENGL']","",NA,"['Eliot K. Wilson']",200,"","IS/Book Lgth N-Fict","",298,"False","False","C",3,"O",20043,"","","Research",2004,1
+"286",9412,1,436,"['ENGL']","",NA,"['Richard Buckstead']",300,"['RML 520']","Top: Lit Eras-America","",340,"False","False","",3,"C",20043,"['MWF 0200-0255PM']","","Topic",2004,21
+"287",9413,1,439,"['ENGL']","",NA,"['Richard DuRocher']",300,"['RML 520', 'RML 520']","Literary Crit/Theory","",360,"False","False","",3,"C",20043,"['T 0120-0245PM', 'Th 0215-0335PM']","","Research",2004,13
+"288",9414,1,441,"['ENGL']","",NA,"['James Heynen']",300,"['RML 525']","Advanced Fiction Wrtg","",372,"False","False","",3,"C",20043,"['M 0700-1000PM']","","Research",2004,17
+"289",9415,1,442,"['ENGL']","",NA,"['Eliot K. Wilson']",300,"['RML 420', 'RML 420']","Adv Non-Fiction Wrtg","",373,"False","False","",3,"C",20043,"['T 0935-1100', 'Th 0930-1050']","","Research",2004,20
+"290",9416,1,449,"['ENGL']","",NA,"['Staff']",300,"","Academic Internship","",394,"True","False","",3,"O",20043,"","","Research",2004,0
+"291",9417,1,450,"['ENGL']","",NA,"['Karen Cherewatuk']",300,"['RML 520', 'RML 520']","Chaucer and Ethics","",395,"False","False","",3,"C",20043,"['T 0935-1100', 'Th 0930-1050']","","Research",2004,14
+"292",9418,1,451,"['ENGL']","",NA,"['Carol Holly']",300,"","IR/Nature Literature","",398,"False","False","",3,"O",20043,"","","Research",2004,2
+"293",9419,1,451,"['ENGL']","",NA,"['James Heynen']",300,"","IR/Adv Creative Writ","",398,"False","False","A",3,"O",20043,"","","Research",2004,1
+"294",9420,1,451,"['ENGL']","",NA,"['Eliot K. Wilson']",300,"","IR/Travel Writing","",398,"False","False","B",3,"O",20043,"","","Research",2004,1
+"295",9421,1,451,"['ENGL']","",NA,"['Mary Susan Lovett']",300,"","IR/Young Adult Lit","",398,"False","False","C",3,"O",20043,"","","Research",2004,1
+"296",9422,1,451,"['ENGL']","",NA,"['Eliot K. Wilson']",300,"","IR/Literary Non-Fict","",398,"False","False","D",3,"O",20043,"","","Research",2004,1
+"297",9423,1,452,"['ENGL']","",NA,"['Mary E. Trull']",300,"['RML 520']","Sem: Metamorphoses","",399,"False","False","",3,"C",20043,"['MWF 1045-1140']","","Seminar",2004,14
+"298",9424,1,454,"['ENVST']","",NA,"['Ann M. Pierce']",100,"['SC 129']","Conservation Biology","",125,"False","False","",3,"C",20043,"['MW 0100-0300PM']","","Research",2004,23
+"299",9425,1,455,"['ENVST']","",NA,"['Rickard J. Pettersson']",100,"['SC 129', 'SC 129']","Intro: Enviro Studies","",137,"False","False","A",3,"O",20043,"['T 0800-0925', 'Th 0800-0920']","","Research",2004,25
+"300",9426,1,455,"['ENVST']","",NA,"['Rickard J. Pettersson']",100,"['SC 129', 'SC 129']","Intro: Enviro Studies","",137,"False","False","B",3,"C",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Research",2004,23
+"301",9427,1,455,"['ENVST']","",NA,"['Paul T. Jackson']",100,"['SC 129']","Intro: Enviro Studies","",137,"False","False","C",3,"C",20043,"['MWF 0800-0855']","","Research",2004,23
+"302",9428,1,457,"['ENVST']","",NA,"['James Farrell']",200,"['HH 403']","Campus Ecology","",222,"False","False","",3,"C",20043,"['MWF 1045-1140']","","Research",2004,30
+"303",9429,1,459,"['ENVST']","",NA,"['Daniel B. Kramer']",200,"['HH 301']","Enviro Policy/Regulat","",232,"False","False","",3,"O",20043,"['MWF 0200-0255PM']","","Research",2004,22
+"304",9430,1,460,"['ENVST']","",NA,"['Robert Jacobel']",200,"['SC 129', 'SC 129']","Global Climate Change","",245,"False","False","",3,"C",20043,"['T 0935-1100', 'Th 0930-1050']","","Research",2004,20
+"305",9431,1,462,"['ENVST']","",NA,"['Emily A. Swanson']",200,"['SC 129', 'SC 129']","Saving Wild Places","",259,"False","False","",3,"C",20043,"['T 0120-0245PM', 'Th 0215-0335PM']","","Research",2004,24
+"306",9432,1,464,"['ENVST']","",NA,"['Rebecca Judge']",200,"","Academic Internship","",294,"True","False","",3,"O",20043,"","","Research",2004,1
+"307",9433,1,465,"['ENVST']","",NA,"['Paul T. Jackson']",200,"","IS/Eco-Design","",298,"False","False","",3,"O",20043,"","","Research",2004,0
+"308",9434,1,465,"['ENVST']","",NA,"['Eugene Bakko']",200,"","IS/Sust Agriculture","",298,"False","False","A",3,"O",20043,"","","Research",2004,1
+"309",9435,1,466,"['ENVST']","",NA,"['Staff']",300,"","Academic Internship","",394,"True","False","",3,"O",20043,"","","Research",2004,0
+"310",9436,1,467,"['ENVST']","",NA,"['Staff']",300,"","IR/","",398,"False","False","",3,"O",20043,"","","Research",2004,0
+"311",9437,1,468,"['ENVST']","",NA,"['Sheryl D. Breen']",300,"['HH 515', 'HH 515']","Sem: Environ Studies","",399,"False","False","",3,"O",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Seminar",2004,8
+"314",9440,1,477,"['FREN']","",NA,"['Scott Homler']",100,"['OM 026']","Beginning French II","",112,"False","False","",3,"O",20043,"['MWF 0800-0855']","","Research",2004,24
+"315",9441,1,479,"['FREN']","",NA,"['M. Clare Mather']",200,"['OM 031']","Intermed French I","",231,"False","False","",3,"O",20043,"['MWF 1255-0150PM']","","Research",2004,18
+"316",9442,1,480,"['FREN']","",NA,"['Wendy Allen']",200,"['OM 026']","Intermed French II","",232,"False","False","A",3,"O",20043,"['MWF 0905-1000']","","Research",2004,16
+"317",9443,1,480,"['FREN']","",NA,"['Jolene Barjasteh']",200,"['OM 026']","Intermed French II","",232,"False","False","B",3,"C",20043,"['MWF 1150-1245PM']","","Research",2004,25
+"318",9444,1,480,"['FREN']","",NA,"['Scott Homler']",200,"['OM 026']","Intermed French II","",232,"False","False","C",3,"O",20043,"['MWF 0200-0255PM']","","Research",2004,22
+"319",9445,1,485,"['FREN']","",NA,"['Wendy Allen']",200,"['OM 026', 'OM 026']","Intro Literary Analy","",253,"False","False","",3,"C",20043,"['T 0935-1100', 'Th 0930-1050']","","Research",2004,28
+"320",9446,1,486,"['FREN']","",NA,"['M. Clare Mather']",200,"['OM 026', 'OM 026']","Fr World: Immigr Lit","",271,"False","False","",3,"O",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Research",2004,13
+"321",9447,1,490,"['FREN']","",NA,"['Staff']",200,"","Academic Internship","",294,"True","False","",3,"O",20043,"","","Research",2004,0
+"322",9448,1,491,"['FREN']","",NA,"['Wendy Allen']",200,"","IS/Teaching Coll Fren","",298,"False","False","",3,"O",20043,"","","Research",2004,1
+"323",9449,1,494,"['FREN']","",NA,"['Staff']",300,"","Academic Internship","",394,"True","False","",3,"O",20043,"","","Research",2004,0
+"324",9450,1,495,"['FREN']","",NA,"['Scott Homler']",300,"['OM 026', 'OM 026']","Sem: Enlightenment","",397,"False","False","",3,"O",20043,"['T 0120-0245PM', 'Th 0215-0335PM']","","Research",2004,7
+"325",9451,1,496,"['FREN']","",NA,"['Staff']",300,"","IR/","",398,"False","False","",3,"O",20043,"","","Research",2004,0
+"326",9452,1,497,"['FREN']","",NA,"['Staff']",300,"['OM 026', 'OM 026']","Sem: Enlightenment","",399,"False","False","",3,"C",20043,"['T 0120-0245PM', 'Th 0215-0335PM']","","Research",2004,0
+"327",9453,1,498,"['GE']","",NA,"['Karen E. Marsalek']",100,"['DC 204']","First-Year Writing","",111,"False","False","A",3,"C",20043,"['MWF 0905-1000']","","Research",2004,18
+"328",9454,1,498,"['GE']","",NA,"['Mark Allister']",100,"['RML 421']","First-Year Writing","",111,"False","False","B",3,"C",20043,"['MWF 0905-1000']","","Research",2004,17
+"329",9455,1,498,"['GE']","",NA,"['Richard Buckstead']",100,"['RML 420']","First-Year Writing","",111,"False","False","C",3,"C",20043,"['MWF 1045-1140']","","Research",2004,19
+"330",9456,1,498,"['GE']","",NA,"['Mary E. Trull']",100,"['RML 520']","First-Year Writing","",111,"False","False","D",3,"C",20043,"['MWF 1255-0150PM']","","Research",2004,19
+"331",9457,1,498,"['GE']","",NA,"['Mary Steen']",100,"['RML 515', 'RML 515']","First-Year Writing","",111,"False","False","E",3,"C",20043,"['T 0800-0925', 'Th 0800-0920']","","Research",2004,13
+"332",9458,1,498,"['GE']","",NA,"['Jan C. Hill']",100,"['RML 421', 'RML 421']","First-Year Writing","",111,"False","False","F",3,"C",20043,"['T 0935-1100', 'Th 0930-1050']","","Research",2004,17
+"333",9459,1,498,"['GE']","",NA,"['Richard DuRocher']",100,"['RML 525', 'RML 525']","First-Year Writing","",111,"False","False","G",3,"C",20043,"['T 0935-1100', 'Th 0930-1050']","","Research",2004,18
+"334",9460,1,498,"['GE']","",NA,"['William A. Gorton']",100,"['OM 004', 'OM 004']","First-Year Writing","",111,"False","False","H",3,"C",20043,"['T 0935-1100', 'Th 0930-1050']","","Research",2004,18
+"335",9461,1,498,"['GE']","",NA,"['Lavern Rippley']",100,"['OM 030', 'OM 030']","First-Year Writing","",111,"False","False","I",3,"C",20043,"['T 0935-1100', 'Th 0930-1050']","","Research",2004,18
+"336",9462,1,498,"['GE']","",NA,"['Joan Hepburn']",100,"['RML 420', 'RML 420']","First-Year Writing","",111,"False","False","J",3,"C",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Research",2004,16
+"337",9463,1,498,"['GE']","",NA,"['Mary V. Winstead']",100,"['RML 520', 'RML 520']","First-Year Writing","",111,"False","False","K",3,"C",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Research",2004,15
+"338",9464,1,498,"['GE']","",NA,"['Richard Bodman']",100,"['OM 001', 'OM 001']","First-Year Writing","",111,"False","False","L",3,"C",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Research",2004,18
+"339",9465,1,498,"['GE']","",NA,"['Anne G. Sabo']",100,"['OM 015', 'OM 015']","First-Year Writing","",111,"False","False","M",3,"C",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Research",2004,18
+"340",9466,1,498,"['GE']","",NA,"['Barrie J. Borich']",100,"['SH 01', 'SH 01']","First-Year Writing","",111,"False","False","N",3,"C",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Research",2004,18
+"341",9467,1,498,"['GE']","",NA,"['James Heynen']",100,"['RML 525', 'RML 525']","First-Year Writing","",111,"False","False","O",3,"C",20043,"['T 0120-0245PM', 'Th 0215-0335PM']","","Research",2004,18
+"342",9468,1,498,"['GE']","",NA,"['Mary V. Winstead']",100,"","First-Year Writing","",111,"False","False","P",3,"C",20043,"['T 0120-0245PM', 'Th 0215-0335PM']","","Research",2004,0
+"343",9469,1,498,"['GE']","",NA,"['Barrie J. Borich']",100,"['SH 01', 'SH 01']","First-Year Writing","",111,"False","False","Q",3,"C",20043,"['T 0120-0245PM', 'Th 0215-0335PM']","","Research",2004,17
+"345",9471,1,505,"['GERM']","",NA,"['Lavern Rippley']",100,"['OM 004']","Beginning German II","",112,"False","False","A",3,"O",20043,"['MWF 0800-0855']","","Research",2004,11
+"346",9472,1,505,"['GERM']","",NA,"['Karen R. Achberger']",100,"['OM 035']","Beginning German II","",112,"False","False","B",3,"O",20043,"['MWF 0800-0855']","","Research",2004,13
+"347",9473,1,508,"['GERM']","",NA,"['Karl Fink']",200,"['OM 004']","Intermed German I","",231,"False","False","",3,"O",20043,"['MWF 0905-1000']","","Research",2004,22
+"348",9474,1,509,"['GERM']","",NA,"['Karen R. Achberger']",200,"['OM 035']","Intermed German II","",232,"False","False","",3,"O",20043,"['MWF 1150-1245PM']","","Research",2004,20
+"349",9475,1,516,"['GERM']","",NA,"['Karl Fink']",200,"['OM 004']","Exploring Non-Fiction","",252,"False","False","",3,"O",20043,"['MWF 1045-1140']","","Research",2004,15
+"350",9476,1,521,"['GERM']","",NA,"['Lavern Rippley']",200,"['OM 035', 'OM 035']","Top: German Media","",273,"False","False","",3,"O",20043,"['T 0800-0925', 'Th 0800-0920']","","Topic",2004,13
+"351",9477,1,522,"['GERM']","",NA,"['Staff']",200,"","Academic Internship","",294,"True","False","",3,"O",20043,"","","Research",2004,0
+"352",9478,1,523,"['GERM']","",NA,"['Norman M. Watt']",200,"","IS/Hesse Translation","",298,"False","False","",3,"O",20043,"","","Research",2004,1
+"353",9479,1,529,"['GERM']","",NA,"['Staff']",300,"","Academic Internship","",394,"True","False","",3,"O",20043,"","","Research",2004,0
+"354",9480,1,530,"['GERM']","",NA,"['Karl Fink']",300,"","IR/Images German Hist","",398,"False","False","",3,"O",20043,"","","Research",2004,1
+"355",9481,1,530,"['GERM']","",NA,"['Karl Fink']",300,"","IR/Arendt/Holocaust","",398,"False","False","A",3,"O",20043,"","","Research",2004,1
+"356",9482,1,530,"['GERM']","",NA,"['Lavern Rippley']",300,"","IR/Germ: Soc ISSues","",398,"False","False","B",3,"O",20043,"","","Research",2004,1
+"357",9483,1,533,"['GCON']","",NA,"['Jolene Barjasteh']",100,"['STEENSLAND']","Medieval Synthesis","",116,"False","False","A",3,"C",20043,"['MWF 1045-1140']","","Research",2004,22
+"358",9484,1,533,"['GCON']","",NA,"['Diana Postlethwaite']",100,"['STEENSLAND']","Medieval Synthesis","",116,"False","False","B",3,"C",20043,"['MWF 1045-1140']","","Research",2004,22
+"359",9485,1,533,"['GCON']","",NA,"['Edmund Santurri']",100,"['STEENSLAND']","Medieval Synthesis","",116,"False","False","C",3,"C",20043,"['MWF 1045-1140']","","Research",2004,22
+"360",9486,1,533,"['GCON']","",NA,"['J. L. Carrington']",100,"['HH 514']","Medieval Synthesis","",116,"False","False","D",3,"C",20043,"['MWF 1045-1140']","","Research",2004,21
+"361",9487,1,535,"['GCON']","",NA,"['Rebecca Judge']",200,"['HH 302']","Dissenters/Defenders","",218,"False","False","A",3,"C",20043,"['MWF 1150-1245PM']","","Research",2004,15
+"362",9488,1,535,"['GCON']","",NA,"['Colin Wells']",200,"['STEENSLAND']","Dissenters/Defenders","",218,"False","False","B",3,"C",20043,"['MWF 1150-1245PM']","","Research",2004,21
+"363",9489,1,535,"['GCON']","",NA,"['Charles Wilson']",200,"['STEENSLAND']","Dissenters/Defenders","",218,"False","False","C",3,"C",20043,"['MWF 1150-1245PM']","","Research",2004,21
+"364",9490,1,535,"['GCON']","",NA,"['Norman M. Watt']",200,"['RML 520']","Dissenters/Defenders","",218,"False","False","D",3,"C",20043,"['MWF 1150-1245PM']","","Research",2004,19
+"365",9491,1,538,"['GCON']","",NA,"['Edward Langerak']",300,"['SH 03', 'SH 03']","Ethical Issues/Gr Con","",310,"False","False","",3,"C",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Research",2004,15
+"366",9492,1,540,"['GREEK']","",NA,"['Christopher M. Brunelle']",100,"['OM 030']","Beginning Greek II","",112,"False","False","",3,"O",20043,"['MWF 0800-0855']","","Research",2004,23
+"367",9493,1,542,"['GREEK']","",NA,"['Paul P. Moran']",200,"['OM 003']","New Testament Greek","",253,"False","False","",3,"O",20043,"['MWF 1255-0150PM']","","Research",2004,11
+"368",9494,1,543,"['GREEK']","",NA,"['Staff']",200,"","Academic Internship","",294,"True","False","",3,"O",20043,"","","Research",2004,0
+"369",9495,1,544,"['GREEK']","",NA,"['Staff']",200,"","IS/","",298,"False","False","",3,"O",20043,"","","Research",2004,0
+"370",9496,1,545,"['GREEK']","",NA,"['Tarik Wareh']",300,"['OM 003', 'OM 003']","Top: Famous Speeches","",370,"False","False","",3,"O",20043,"['T 0935-1100', 'Th 0930-1050']","","Topic",2004,6
+"371",9497,1,550,"['GREEK']","",NA,"['Staff']",300,"","Academic Internship","",394,"True","False","",3,"O",20043,"","","Research",2004,0
+"372",9498,1,551,"['GREEK']","",NA,"['Staff']",300,"","IR/","",398,"False","False","",3,"O",20043,"","","Research",2004,0
+"373",9499,1,553,"['HIST']","",NA,"['Todd W. Nichol']",100,"['HH 317', 'HH 317']","Viking/Medieval Scand","",111,"False","False","",3,"C",20043,"['T 0935-1100', 'Th 0930-1050']","","Research",2004,20
+"374",9500,1,556,"['HIST']","",NA,"['Robert Nichols']",100,"['OM 030', 'OM 030']","Fall/Russian Monarchy","",121,"False","False","",3,"C",20043,"['T 0120-0245PM', 'Th 0215-0335PM']","","Research",2004,17
+"375",9501,1,557,"['HIST']","",NA,"['Dolores Peters']",100,"['OM 011', 'OM 011']","Europe--Great War","",122,"False","False","",3,"C",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Research",2004,16
+"376",9502,1,563,"['HIST']","",NA,"['Michael Fitzgerald']",100,"['HH 515']","Slavery/Americas","",165,"False","False","",3,"C",20043,"['MWF 1150-1245PM']","","Research",2004,19
+"377",9503,1,570,"['HIST']","",NA,"['Eric J. Fure-Slocum']",100,"['RML 420']","America Since WW II","",182,"False","False","",3,"C",20043,"['MWF 0905-1000']","","Research",2004,19
+"378",9504,1,574,"['HIST']","",NA,"['Gary De Krey']",100,"['HH 301']","Eur/Reform/Modern","",191,"False","False","",3,"O",20043,"['MWF 0905-1000']","","Research",2004,26
+"379",9505,1,576,"['HIST']","",NA,"['Helena Pohlandt-McCormick']",100,"['HH 307']","Global 1500-Present","",195,"False","False","",3,"C",20043,"['MWF 1150-1245PM']","","Research",2004,28
+"380",9506,1,578,"['HIST']","",NA,"['Judy Kutulas']",100,"['HH 307']","America After 1865","",199,"False","False","A",3,"C",20043,"['MWF 0905-1000']","","Research",2004,34
+"381",9507,1,578,"['HIST']","",NA,"['Eric J. Fure-Slocum']",100,"['RML 577']","America After 1865","",199,"False","False","B",3,"C",20043,"['MWF 1255-0150PM']","","Research",2004,30
+"382",9508,1,582,"['HIST']","",NA,"['Timothy R. Howe']",200,"['HH 501', 'HH 501']","Ancient: Rome","",204,"False","False","",3,"C",20043,"['T 0800-0925', 'Th 0800-0920']","","Research",2004,40
+"383",9509,1,585,"['HIST']","",NA,"['David M. Perry']",200,"['OM 001', 'OM 001']","High/Late Middle Ages","",212,"False","False","",3,"O",20043,"['T 0120-0245PM', 'Th 0215-0335PM']","","Research",2004,20
+"384",9510,1,588,"['HIST']","",NA,"['J. L. Carrington']",200,"['HH 301']","Age of Renaissance","",217,"False","False","",3,"C",20043,"['MWF 1255-0150PM']","","Research",2004,28
+"385",9511,1,590,"['HIST']","",NA,"['Gary De Krey']",200,"['HH 301']","Modern Britain","",220,"False","False","",3,"C",20043,"['MWF 1150-1245PM']","","Research",2004,24
+"386",9512,1,594,"['HIST']","",NA,"['Dolores Peters']",200,"['HH 317']","French Revol/Napoleon","",227,"False","False","",3,"O",20043,"['MWF 1255-0150PM']","","Research",2004,22
+"387",9513,1,596,"['HIST']","",NA,"['Robert Nichols']",200,"['HH 413']","20th Century Russia","",231,"False","False","",3,"C",20043,"['MWF 0200-0255PM']","","Research",2004,32
+"389",9515,1,602,"['HIST']","",NA,"['Dolores Peters']",200,"['HH 501']","Wmn/Gender/Mod Europe","",239,"False","False","",3,"O",20043,"['MWF 1045-1140']","","Research",2004,24
+"390",9516,1,605,"['HIST']","",NA,"['Dennis R. Hidalgo']",200,"['HH 301', 'HH 301']","Modern Latin America","",242,"False","False","",3,"O",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Research",2004,31
+"391",9517,1,609,"['HIST']","",NA,"['Robert Entenmann']",200,"['OM 031']","Modern China","",251,"False","False","",3,"O",20043,"['MWF 0905-1000']","","Research",2004,14
+"393",9519,1,610,"['HIST']","",NA,"['Robert Entenmann']",200,"['HH 317', 'HH 317']","Japanese Civilization","",252,"False","False","",3,"O",20043,"['T 0800-0925', 'Th 0800-0920']","","Research",2004,24
+"394",9520,1,617,"['HIST']","",NA,"['James Farrell']",200,"['HH 307']","Environmental History","",275,"False","False","",3,"C",20043,"['MWF 0200-0255PM']","","Research",2004,35
+"395",9521,1,618,"['HIST']","",NA,"['Michael Fitzgerald']",200,"['RML 577', 'RML 577']","African-American Hist","",277,"False","False","",3,"C",20043,"['T 0935-1100', 'Th 0930-1050']","","Research",2004,33
+"396",9522,1,624,"['HIST']","",NA,"['Staff']",200,"","Academic Internship","",294,"True","False","",3,"O",20043,"","","Research",2004,0
+"397",9523,1,625,"['HIST']","",NA,"['Staff']",200,"","IS/","",298,"False","False","",3,"O",20043,"","","Research",2004,0
+"398",9524,1,626,"['HIST']","",NA,"['David M. Perry']",200,"['OM 002', 'OM 002']","Top: The Crusades","",299,"False","False","",3,"O",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Topic",2004,22
+"399",9525,1,628,"['HIST']","",NA,"['Timothy R. Howe']",300,"['HH 301', 'HH 301']","Sem: Greek Civilizatn","",302,"False","False","",3,"C",20043,"['T 0120-0245PM', 'Th 0215-0335PM']","","Seminar",2004,15
+"400",9526,1,632,"['HIST']","",NA,"['Robert Nichols']",300,"['HH 302', 'HH 302']","Sem: Stalin","",320,"False","False","",3,"C",20043,"['T 0935-1100', 'Th 0930-1050']","","Seminar",2004,17
+"401",9527,1,638,"['HIST']","",NA,"['Steven C. Hahn']",300,"['RML 577', 'RML 577']","Sem: Revolution","",370,"False","False","",3,"C",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Seminar",2004,24
+"402",9528,1,640,"['HIST']","",NA,"['Staff']",300,"","Academic Internship","",394,"True","False","",3,"O",20043,"","","Research",2004,0
+"403",9529,1,642,"['HIST']","",NA,"['Timothy R. Howe']",300,"","IR/Alexander Great","",398,"False","False","",3,"O",20043,"","","Research",2004,1
+"404",9530,1,642,"['HIST']","",NA,"['Dolores Peters']",300,"","IR/Ger/Fran/Holocaust","",398,"False","False","A",3,"O",20043,"","","Research",2004,1
+"405",9531,1,642,"['HIST']","",NA,"['Steven C. Hahn']",300,"","IR/Tribes & Treaties","",398,"False","False","B",3,"O",20043,"","","Research",2004,1
+"406",9532,1,642,"['HIST']","",NA,"['Timothy R. Howe']",300,"","IR/Rome & Neighbors","",398,"False","False","C",3,"O",20043,"","","Research",2004,1
+"407",9533,1,642,"['HIST']","",NA,"['Michael Fitzgerald']",300,"","IR/Civil Rights","",398,"False","False","D",3,"O",20043,"","","Research",2004,1
+"408",9534,1,642,"['HIST']","",NA,"['J. L. Carrington']",300,"","IR/Medieval Pilgrims","",398,"False","False","E",3,"O",20043,"","","Research",2004,1
+"409",9535,1,643,"['HSPST']","",NA,"['Christopher L. Chiappari']",200,"","Academic Internship","",294,"True","False","",3,"O",20043,"","","Research",2004,1
+"411",9537,1,645,"['HSPST']","",NA,"['Ariel Strichartz']",300,"['OM 026']","Contemp Latin Am ISS","",333,"False","False","",3,"C",20043,"['MWF 1255-0150PM']","","Research",2004,23
+"414",9540,1,647,"['HSPST']","",NA,"['Staff']",300,"","IR/","",398,"False","False","",3,"O",20043,"","","Research",2004,0
+"415",9541,1,649,"['FAMST']","",NA,"['Patricia Richardson']",200,"['HH 317']","Family Relationships","",242,"False","False","",3,"C",20043,"['MWF 1045-1140']","","Research",2004,42
+"416",9542,1,653,"['FAMST']","",NA,"['Staff']",200,"","Academic Internship","",294,"True","False","",3,"O",20043,"","","Research",2004,0
+"417",9543,1,654,"['FAMST']","",NA,"['Staff']",200,"","IS/","",298,"False","False","",3,"O",20043,"","","Research",2004,0
+"418",9544,1,655,"['FAMST']","",NA,"['Patricia Richardson']",300,"['HH 307', 'HH 307']","Senior Seminar: Sp Top","",391,"False","False","",3,"C",20043,"['T 0935-1100', 'Th 0930-1050']","","Research",2004,20
+"419",9545,1,656,"['FAMST']","",NA,"['Staff']",300,"","Academic Internship","",394,"True","False","",3,"O",20043,"","","Research",2004,0
+"420",9546,1,657,"['FAMST']","",NA,"['Staff']",300,"","IR/","",398,"False","False","",3,"O",20043,"","","Research",2004,0
+"421",9547,1,660,"['JAPAN']","",NA,"['Rika Ito']",100,"['OM 002', 'OM 002']","Beginning Japanese II","",112,"False","False","A",3,"O",20043,"['MWF 1045-1140', 'T 0200-0255PM']","","Research",2004,10
+"422",9548,1,660,"['JAPAN']","",NA,"['Rika Ito']",100,"['OM 002', 'OM 002']","Beginning Japanese II","",112,"False","False","B",3,"O",20043,"['MWF 1150-1245PM', 'T 0305-0400PM']","","Research",2004,9
+"423",9549,1,660,"['JAPAN']","",NA,"['Rika Ito']",100,"['OM 002', 'OM 002']","Beginning Japanese II","",112,"False","False","C",3,"O",20043,"['MWF 1045-1140', 'T 0305-0400PM']","","Research",2004,7
+"424",9550,1,660,"['JAPAN']","",NA,"['Rika Ito']",100,"['OM 002', 'OM 002']","Beginning Japanese II","",112,"False","False","D",3,"O",20043,"['MWF 1150-1245PM', 'T 0200-0255PM']","","Research",2004,5
+"425",9551,1,664,"['JAPAN']","",NA,"['Phyllis Hyland Larson']",200,"['OM 002', 'RML 250']","Intermed Japanese II","",232,"False","False","",3,"O",20043,"['MWF 1255-0150PM', 'T 0305-0400PM']","","Research",2004,14
+"426",9552,1,667,"['JAPAN']","",NA,"['Diane L. Burry']",200,"['OM 002']","Advanced Japanese II","",252,"False","False","",3,"O",20043,"['MWF 0200-0255PM']","","Research",2004,9
+"427",9553,1,669,"['JAPAN']","",NA,"['Phyllis Hyland Larson']",200,"","IS/Film/Lit Japanese","",298,"False","False","",3,"O",20043,"","","Research",2004,1
+"428",9554,1,669,"['JAPAN']","",NA,"['Rika Ito']",200,"","IS/Jpnse/Eng Lnguistc","",298,"False","False","A",3,"O",20043,"","","Research",2004,1
+"429",9555,1,681,"['IS']","",NA,"['Eric Cole', 'David Booth']",200,"['DC 204', 'SC 229']","Life: Biol & Theol","",210,"False","False","",3,"C",20043,"['WF 0200-0255PM', 'M 0100-0400PM']","","Topic",2004,20
+"430",9556,1,683,"['IS']","",NA,"['Gary Wicks']",200,"['DC 204', 'DC 204']","Sport & Relig: Amer Valu","",212,"False","False","",3,"C",20043,"['T 0800-0925', 'Th 0800-0920']","","Topic",2004,15
+"432",9558,1,686,"['IS']","",NA,"['Staff']",200,"","Academic Internship","",294,"True","False","",3,"O",20043,"","","Research",2004,0
+"433",9559,1,687,"['IS']","",NA,"['Thomas A. Williamson']",200,"","IS/Colonial India","",298,"False","False","",3,"O",20043,"","","Research",2004,1
+"435",9561,1,689,"['IS']","",NA,"['Christopher L. Chiappari']",300,"","Senior Project I","",391,"True","False","A",3,"C",20043,"","","Research",2004,1
+"436",9562,1,690,"['IS']","",NA,"['William Sonnega']",300,"","Senior Project II","",392,"False","False","A",3,"C",20043,"","","Research",2004,2
+"437",9563,1,691,"['IS']","",NA,"['Staff']",300,"","Academic Internship","",394,"True","False","",3,"O",20043,"","","Research",2004,0
+"438",9564,1,692,"['IS']","",NA,"['David Booth']",300,"","IR/Early Christ Icon","",398,"False","False","",3,"O",20043,"","","Research",2004,1
+"440",9566,1,697,"['ID']","",NA,"['Edmund Santurri']",200,"['BMC 102']","War and Peace","",238,"False","False","",3,"C",20043,"['MWF 0905-1000']","","Research",2004,32
+"441",9567,1,712,"['LATIN']","",NA,"['Paul P. Moran']",100,"['OM 031']","Beginning Latin II","",112,"False","False","A",3,"O",20043,"['MWF 0800-0855']","","Research",2004,14
+"442",9568,1,712,"['LATIN']","",NA,"['Christopher M. Brunelle']",100,"['OM 031']","Beginning Latin II","",112,"False","False","B",3,"C",20043,"['MWF 1150-1245PM']","","Research",2004,28
+"443",9569,1,715,"['LATIN']","",NA,"['Anne Groton']",200,"['OM 030']","Vergil & Latin Epic","",252,"False","False","",3,"C",20043,"['MWF 0200-0255PM']","","Research",2004,19
+"444",9570,1,716,"['LATIN']","",NA,"['Staff']",200,"","Academic Internship","",294,"True","False","",3,"O",20043,"","","Research",2004,0
+"445",9571,1,717,"['LATIN']","",NA,"['Staff']",200,"","IS/","",298,"False","False","",3,"O",20043,"","","Research",2004,0
+"446",9572,1,723,"['LATIN']","",NA,"['Christopher M. Brunelle']",300,"['OM 004', 'OM 004']","Latin Drama","",375,"False","False","",3,"O",20043,"['T 0120-0245PM', 'Th 0215-0335PM']","","Research",2004,9
+"447",9573,1,725,"['LATIN']","",NA,"['Staff']",300,"","Academic Internship","",394,"True","False","",3,"O",20043,"","","Research",2004,0
+"448",9574,1,726,"['LATIN']","",NA,"['Staff']",300,"","IR/","",398,"False","False","",3,"O",20043,"","","Research",2004,0
+"481",9607,1,768,"['MGMT']","",NA,"['Mary Ann Emery']",200,"['HH 413']","Principles of Acct","",225,"False","False","A",3,"C",20043,"['MWF 1045-1140']","","Research",2004,26
+"482",9608,1,768,"['MGMT']","",NA,"['Mary Ann Emery']",200,"['HH 413']","Principles of Acct","",225,"False","False","B",3,"C",20043,"['MWF 1150-1245PM']","","Research",2004,32
+"483",9609,1,774,"['MGMT']","",NA,"['Richard Goedde']",200,"['SC 129']","Managerial/Cost Acct","",237,"False","False","",3,"O",20043,"['MWF 1150-1245PM']","","Research",2004,26
+"484",9610,1,777,"['MGMT']","",NA,"['Sian E. Muir']",200,"['OM 001']","Marketing","",250,"False","False","",3,"C",20043,"['MWF 0200-0255PM']","","Research",2004,28
+"485",9611,1,778,"['MGMT']","",NA,"['Siriwan Chutikamoltham']",200,"['HH 301', 'HH 301']","Management","",251,"False","False","A",3,"C",20043,"['T 0935-1100', 'Th 0930-1050']","","Research",2004,25
+"486",9612,1,778,"['MGMT']","",NA,"['Siriwan Chutikamoltham']",200,"['SC 170', 'SC 170']","Management","",251,"False","False","B",3,"C",20043,"['T 0120-0245PM', 'Th 0215-0335PM']","","Research",2004,24
+"487",9613,1,779,"['MGMT']","",NA,"['John M. Ophaug']",200,"['HH 516', 'HH 516']","Legal Aspects of Bus","",252,"False","False","",3,"O",20043,"['T 0800-0925', 'Th 0800-0920']","","Research",2004,19
+"488",9614,1,780,"['MGMT']","",NA,"['Sian E. Muir']",200,"['OM 001']","Entrepreneurship","",256,"False","False","",3,"C",20043,"['MWF 1255-0150PM']","","Research",2004,18
+"489",9615,1,784,"['MGMT']","",NA,"['Sian E. Muir']",200,"","Academic Internship","",294,"True","False","",3,"O",20043,"","","Research",2004,1
+"490",9616,1,784,"['MGMT']","",NA,"['Mary Ann Emery']",200,"","Academic Internship","",294,"True","False","A",3,"O",20043,"","","Research",2004,1
+"491",9617,1,785,"['MGMT']","",NA,"['Staff']",200,"","IS/","",298,"False","False","",3,"O",20043,"","","Research",2004,0
+"492",9618,1,786,"['MGMT']","",NA,"['Richard Goedde']",300,"['SC 378', 'SC 378']","Investments","",380,"False","False","",3,"C",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Research",2004,30
+"493",9619,1,787,"['MGMT']","",NA,"['Timothy N. Tracey']",300,"['HH 413']","Mgmt Policy & Strat","",383,"False","False","",3,"C",20043,"['Th 0700-1000PM']","","Research",2004,30
+"494",9620,1,788,"['MGMT']","",NA,"['Mary Ann Emery']",300,"","Academic Internship","",394,"True","False","",3,"O",20043,"","","Research",2004,1
+"495",9621,1,789,"['MGMT']","",NA,"['Staff']",300,"","IR/","",398,"False","False","",3,"O",20043,"","","Research",2004,0
+"496",9622,1,792,"['MEDIA']","",NA,"['William Sonnega']",100,"['TB 216', 'TB 216']","Mass Media","",160,"False","False","A",3,"C",20043,"['T 0935-1100', 'Th 0930-1050']","","Research",2004,21
+"497",9623,1,792,"['MEDIA']","",NA,"['William Sonnega']",100,"['TB 216', 'TB 216']","Mass Media","",160,"False","False","B",3,"C",20043,"['T 0800-0925', 'Th 0800-0920']","","Research",2004,24
+"498",9624,1,794,"['MEDIA']","",NA,"['William Sonnega']",200,"['TB 216', 'TB 216']","Media/Contemp Culture","",260,"False","False","",3,"O",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Research",2004,11
+"499",9625,1,795,"['MEDIA']","",NA,"['William Sonnega']",200,"","Academic Internship","",294,"True","False","",3,"O",20043,"","","Research",2004,4
+"500",9626,1,796,"['MEDIA']","",NA,"['Staff']",200,"","IS/","",298,"False","False","",3,"O",20043,"","","Research",2004,0
+"501",9627,1,797,"['MEDIA']","",NA,"['Staff']",300,"","Academic Internship","",394,"True","False","",3,"O",20043,"","","Research",2004,0
+"502",9628,1,798,"['MEDIA']","",NA,"['Staff']",300,"","IR/","",398,"False","False","",3,"O",20043,"","","Research",2004,0
+"511",9637,1,804,"['MUSIC']","",NA,"['David Carter']",100,"['CHM 232']","The Art of Music","",131,"False","False","",3,"O",20043,"['MWF 0905-1000']","","Research",2004,28
+"525",9651,1,822,"['MUSIC']","",NA,"['Timothy Mahr']",200,"['CHM 224']","Composition I","",223,"False","False","",3,"O",20043,"['MWF 0200-0255PM']","","Research",2004,13
+"526",9652,1,832,"['MUSIC']","",NA,"['Alice Hanson']",200,"['CHM 239']","Hist & Lit Music II","",242,"False","False","A",3,"O",20043,"['MWF 1255-0150PM']","","Research",2004,32
+"527",9653,1,832,"['MUSIC']","",NA,"['Alice Hanson']",200,"['CHM 239']","Hist & Lit Music II","",242,"False","False","B",3,"O",20043,"['MWF 0200-0255PM']","","Research",2004,30
+"535",9661,1,846,"['MUSIC']","",NA,"['Staff']",200,"","Academic Internship","",294,"True","False","",3,"O",20043,"","","Research",2004,0
+"536",9662,1,847,"['MUSIC']","",NA,"['John Ferguson']",200,"","IS/History Organ Dsgn","",298,"False","False","",3,"O",20043,"","","Research",2004,1
+"537",9663,1,847,"['MUSIC']","",NA,"['Elinor Niemisto']",200,"","IS/Harp Lit/Pedagogy","",298,"False","False","A",3,"O",20043,"","","Research",2004,1
+"538",9664,1,847,"['MUSIC']","",NA,"['Justin W. Merritt']",200,"","IS/Comp Cd Prod II","",298,"False","False","B",3,"O",20043,"","","Research",2004,1
+"539",9665,1,847,"['MUSIC']","",NA,"['Timothy Mahr']",200,"","IS/Folk Song Suite","",298,"False","False","C",3,"O",20043,"","","Research",2004,1
+"541",9667,1,849,"['MUSIC']","",NA,"['Justin W. Merritt']",300,"['CHM 239']","Analysis/Tonal Music","",313,"False","False","",3,"O",20043,"['MWF 0905-1000']","","Research",2004,14
+"542",9668,1,851,"['MUSIC']","",NA,"['Justin W. Merritt']",300,"['CHM 232']","Composition II","",324,"False","False","",3,"O",20043,"['MWF 1255-0150PM']","","Research",2004,4
+"543",9669,1,852,"['MUSIC']","",NA,"['Justin W. Merritt']",300,"['CHM 232']","Composition III","",325,"False","False","",3,"C",20043,"['MWF 1255-0150PM']","","Research",2004,3
+"544",9670,1,854,"['MUSIC']","",NA,"['Gerald Hoekstra']",300,"['CHM 239']","Music of Baroque Era","",342,"False","False","",3,"O",20043,"['MWF 1045-1140']","","Research",2004,11
+"545",9671,1,857,"['MUSIC']","",NA,"['Alice Hanson']",300,"['CHM 239', 'CHM 239']","Top: Folk/Pop Art Musi","",345,"False","False","",3,"O",20043,"['T 0800-0925', 'Th 0800-0920']","","Topic",2004,19
+"548",9674,1,865,"['MUSIC']","",NA,"['Staff']",300,"","Academic Internship","",394,"True","False","",3,"O",20043,"","","Research",2004,0
+"549",9675,1,866,"['MUSIC']","",NA,"['Steven Amundson']",300,"","IR/Inst Conducting","",398,"False","False","",3,"O",20043,"","","Research",2004,1
+"551",9677,1,922,"['NORW']","",NA,"['Nancy Aarsvold']",100,"['OM 015']","Begin Norwegian II","",112,"False","False","A",3,"C",20043,"['MWF 0905-1000']","","Research",2004,23
+"552",9678,1,922,"['NORW']","",NA,"[""Margaret H. O'Leary""]",100,"['OM 015']","Begin Norwegian II","",112,"False","False","B",3,"C",20043,"['MWF 1045-1140']","","Research",2004,19
+"553",9679,1,922,"['NORW']","",NA,"[""Margaret H. O'Leary""]",100,"['OM 015']","Begin Norwegian II","",112,"False","False","C",3,"C",20043,"['MWF 1150-1245PM']","","Research",2004,20
+"554",9680,1,922,"['NORW']","",NA,"['Nancy Aarsvold']",100,"['OM 015']","Begin Norwegian II","",112,"False","False","D",3,"O",20043,"['MWF 1255-0150PM']","","Research",2004,17
+"555",9681,1,927,"['NORW']","",NA,"['Nancy Aarsvold']",200,"['OM 015']","Intermed Norwegian II","",232,"False","False","",3,"O",20043,"['MWF 0800-0855']","","Research",2004,15
+"556",9682,1,931,"['NORW']","",NA,"['Staff']",200,"","Academic Internship","",294,"True","False","",3,"O",20043,"","","Research",2004,0
+"557",9683,1,932,"['NORW']","",NA,"['Staff']",200,"","IS/","",298,"False","False","",3,"O",20043,"","","Research",2004,0
+"558",9684,1,934,"['NORW']","",NA,"[""Margaret H. O'Leary""]",300,"['OM 015']","Norsk Lit Etter 1890","",372,"False","False","",3,"O",20043,"['MWF 0200-0255PM']","","Research",2004,7
+"559",9685,1,935,"['NORW']","",NA,"['Solveig Zempel']",300,"['OM 015', 'OM 015']","Ibsen-Tr","",382,"False","False","",3,"O",20043,"['T 0120-0245PM', 'Th 0215-0335PM']","","Research",2004,11
+"560",9686,1,936,"['NORW']","",NA,"['Staff']",300,"","Academic Internship","",394,"True","False","",3,"O",20043,"","","Research",2004,0
+"561",9687,1,937,"['NORW']","",NA,"[""Margaret H. O'Leary""]",300,"","IR/Norse Mythology","",398,"False","False","",3,"O",20043,"","","Research",2004,1
+"562",9688,1,943,"['NURS']","",NA,"['Judith Sateren']",200,"","IS/Health Programs","",298,"False","False","",3,"O",20043,"","","Research",2004,1
+"564",9690,1,954,"['NURS']","",NA,"['Judith Sateren']",300,"['SC 18', 'SC 18']","Alter Mental Health","",360,"False","False","",3,"C",20043,"['MWF 0905-1000', 'TTh 0700-0230PM']","","Research",2004,21
+"566",9692,1,963,"['NURS']","",NA,"['Staff']",300,"","IR/","",398,"False","False","",3,"O",20043,"","","Research",2004,0
+"567",9693,1,964,"['PHIL']","",NA,"['Anthony J. Rudd']",100,"['RML 577']","Making of Modern Mind","",118,"False","False","A",3,"C",20043,"['MWF 1045-1140']","","Research",2004,21
+"568",9694,1,964,"['PHIL']","",NA,"['Anthony J. Rudd']",100,"['HH 515']","Making of Modern Mind","",118,"False","False","B",3,"C",20043,"['MWF 1255-0150PM']","","Research",2004,21
+"569",9695,1,964,"['PHIL']","",NA,"['Jennifer C. Manion']",100,"['TB 227', 'TB 227']","Making of Modern Mind","",118,"False","False","C",3,"C",20043,"['T 0935-1100', 'Th 0930-1050']","","Research",2004,16
+"570",9696,1,968,"['PHIL']","",NA,"['Anthony J. Rudd']",200,"['HH 516', 'HH 516']","Phil of Mind/Behavior","",231,"False","False","",3,"C",20043,"['T 0120-0245PM', 'Th 0215-0335PM']","","Research",2004,21
+"571",9697,1,971,"['PHIL']","",NA,"['Jeanine Grenberg']",200,"['HH 514']","Modern Philosophy","",236,"False","False","",3,"C",20043,"['MWF 1255-0150PM']","","Research",2004,23
+"572",9698,1,972,"['PHIL']","",NA,"['Vicki L. Harper']",200,"['HH 514']","Formal Logic & Phil","",240,"False","False","",3,"C",20043,"['MWF 1150-1245PM']","","Research",2004,24
+"573",9699,1,974,"['PHIL']","",NA,"['Vicki L. Harper']",200,"['HH 516']","Aesthetics","",243,"False","False","",3,"C",20043,"['MWF 0200-0255PM']","","Research",2004,22
+"574",9700,1,976,"['PHIL']","",NA,"['Karen Gervais']",200,"['HH 307', 'HH 307']","Philosophy & Feminism","",245,"False","False","",3,"O",20043,"['T 0800-0925', 'Th 0800-0920']","","Research",2004,21
+"575",9701,1,977,"['PHIL']","",NA,"['Karen Gervais']",200,"['HH 413']","Biomedical Ethics","",250,"False","False","",3,"C",20043,"['MWF 0800-0855']","","Research",2004,23
+"576",9702,1,979,"['PHIL']","",NA,"['Jeanine Grenberg']",200,"['HH 516']","Ethics/The Good Life","",252,"False","False","A",3,"C",20043,"['MWF 0905-1000']","","Research",2004,21
+"577",9703,1,979,"['PHIL']","",NA,"['Jeanine Grenberg']",200,"['HH 516']","Ethics/The Good Life","",252,"False","False","B",3,"C",20043,"['MWF 1045-1140']","","Research",2004,20
+"578",9704,1,979,"['PHIL']","",NA,"['Edward Langerak']",200,"['HH 516']","Ethics/The Good Life","",252,"False","False","C",3,"C",20043,"['MWF 1255-0150PM']","","Research",2004,24
+"579",9705,1,980,"['PHIL']","",NA,"['Paola L. Kindred']",200,"['SH 02', 'SH 02']","Law,Politics,Morality","",254,"False","False","",3,"C",20043,"['T 0120-0245PM', 'Th 0215-0335PM']","","Research",2004,16
+"580",9706,1,981,"['PHIL']","",NA,"['Corliss Swain']",200,"['HH 516', 'HH 516']","Friendship Love/Gd Lf","",256,"False","False","",3,"C",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Research",2004,17
+"581",9707,1,985,"['PHIL']","",NA,"['Staff']",200,"","Academic Internship","",294,"True","False","",3,"O",20043,"","","Research",2004,0
+"582",9708,1,986,"['PHIL']","",NA,"['Gordon D. Marino']",200,"","IS/Existential/Faith","",298,"False","False","",3,"O",20043,"","","Research",2004,1
+"583",9709,1,991,"['PHIL']","",NA,"['Paola L. Kindred']",300,"['SH 02', 'SH 02']","Top: American Philosop","",375,"False","False","",3,"O",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Topic",2004,13
+"584",9710,1,992,"['PHIL']","",NA,"['Staff']",300,"","Academic Internship","",394,"True","False","",3,"O",20043,"","","Research",2004,0
+"585",9711,1,993,"['PHIL']","",NA,"['Anthony J. Rudd']",300,"","IR/Macintyre & Ethics","",398,"False","False","",3,"O",20043,"","","Research",2004,3
+"586",9712,1,993,"['PHIL']","",NA,"['Gordon D. Marino']",300,"","IR/Kierkegaard","",398,"False","False","A",3,"O",20043,"","","Research",2004,1
+"587",9713,1,993,"['PHIL']","",NA,"['Anthony J. Rudd']",300,"","IR/Wittgenstein/Music","",398,"False","False","B",3,"O",20043,"","","Research",2004,1
+"588",9714,1,993,"['PHIL']","",NA,"['Gordon D. Marino']",300,"","IR/Kierk and Hegel","",398,"False","False","C",3,"O",20043,"","","Research",2004,1
+"589",9715,1,993,"['PHIL']","",NA,"['Gordon D. Marino']",300,"","IR/Johannes Climacus","",398,"False","False","D",3,"O",20043,"","","Research",2004,1
+"590",9716,1,993,"['PHIL']","",NA,"['Gordon D. Marino']",300,"","IR/Faith & Knowledge","",398,"False","False","E",3,"O",20043,"","","Research",2004,1
+"591",9717,1,993,"['PHIL']","",NA,"['Gordon D. Marino']",300,"","IR/Kierk On Truth","",398,"False","False","F",3,"O",20043,"","","Research",2004,1
+"592",9718,1,993,"['PHIL']","",NA,"['Gordon D. Marino']",300,"","IR/Limits of Reason","",398,"False","False","G",3,"O",20043,"","","Research",2004,1
+"593",9719,1,993,"['PHIL']","",NA,"['Gordon D. Marino']",300,"","IR/God's Existence","",398,"False","False","H",3,"O",20043,"","","Research",2004,1
+"594",9720,1,994,"['PHIL']","",NA,"['Corliss Swain']",300,"['SH 02', 'SH 02']","Seminar","",399,"False","False","",3,"O",20043,"['T 0935-1100', 'Th 0930-1050']","","Seminar",2004,10
+"644",9770,1,1051,"['PETH']","",NA,"['Daniel Hagen']",200,"['SAC 112', 'SAC 112', 'SAC_TR_RM']","Prev/Care Sport Injur","",255,"False","False","A",3,"C",20043,"['T 0800-0925', 'Th 0800-0920', 'W 1150-1245PM']","","Research",2004,15
+"645",9771,1,1051,"['PETH']","",NA,"['Daniel Hagen']",200,"['SAC 112', 'SAC 112', 'SAC_TR_RM']","Prev/Care Sport Injur","",255,"False","False","B",3,"C",20043,"['T 0800-0925', 'Th 0800-0920', 'W 1255-0150PM']","","Research",2004,17
+"646",9772,1,1056,"['PETH']","",NA,"['Gary Wicks']",200,"['SAC 112']","Sport Ethic-Society","",290,"False","False","",3,"C",20043,"['MWF 0905-1000']","","Research",2004,29
+"647",9773,1,1057,"['PETH']","",NA,"['William Sean Goldsworthy']",200,"","Academic Internship","",294,"True","False","",3,"O",20043,"","","Research",2004,1
+"648",9774,1,1057,"['PETH']","",NA,"['Cynthia Book']",200,"","Academic Internship","",294,"True","False","A",3,"O",20043,"","","Research",2004,1
+"649",9775,1,1057,"['PETH']","",NA,"['Tegtmeyer Judith']",200,"","Academic Internship","",294,"True","False","B",3,"O",20043,"","","Research",2004,1
+"650",9776,1,1058,"['PETH']","",NA,"['Cynthia Book']",200,"","IS/Efficacy of Icing","",298,"False","False","",3,"O",20043,"","","Research",2004,1
+"651",9777,1,1058,"['PETH']","",NA,"['Bryan G. DeMaine']",200,"","IS/Training Programs","",298,"False","False","A",3,"O",20043,"","","Research",2004,1
+"653",9779,1,1060,"['PETH']","",NA,"['Gary Wicks']",300,"['SAC 103', 'SAC 103']","Motor Learning","",373,"False","False","",3,"O",20043,"['MWF 1255-0150PM', 'Th 1245-0245PM']","","Research",2004,12
+"654",9780,1,1064,"['PETH']","",NA,"['Christine Daymont']",300,"['SAC 103', 'SAC 103']","Physiology/Exercise","",375,"False","False","",3,"O",20043,"['MWF 1045-1140', 'T 0800-1100']","","Research",2004,16
+"655",9781,1,1067,"['PETH']","",NA,"['Cynthia Book']",300,"","Academic Internship","",394,"True","False","",3,"O",20043,"","","Research",2004,1
+"656",9782,1,1068,"['PETH']","",NA,"['Cynthia Book']",300,"","IR/Bmd Research","",398,"False","False","",3,"O",20043,"","","Research",2004,2
+"680",9806,1,1103,"['PSCI']","",NA,"['Donald I. Ostrom']",100,"['SC 278', 'SC 278']","American Politics","",111,"False","False","",3,"C",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Research",2004,31
+"681",9807,1,1104,"['PSCI']","",NA,"['D Christopher Brooks']",100,"['HH 317']","Comparative Politics","",112,"False","False","A",3,"O",20043,"['MWF 0800-0855']","","Research",2004,28
+"682",9808,1,1104,"['PSCI']","",NA,"['D Christopher Brooks']",100,"['HH 317']","Comparative Politics","",112,"False","False","B",3,"C",20043,"['MWF 0905-1000']","","Research",2004,29
+"683",9809,1,1109,"['PSCI']","",NA,"['Kristina Thalhammer']",100,"['OM 031', 'OM 031']","Politics Human Rights","",117,"False","False","",3,"C",20043,"['T 0120-0245PM', 'Th 0215-0335PM']","","Research",2004,33
+"684",9810,1,1110,"['PSCI']","",NA,"['Katherine S. Tegtmeyer Pak']",100,"['HH 403']","Int'l Relations","",121,"False","False","A",3,"C",20043,"['MWF 1255-0150PM']","","Research",2004,25
+"685",9811,1,1110,"['PSCI']","",NA,"['Katherine S. Tegtmeyer Pak']",100,"['HH 403']","Int'l Relations","",121,"False","False","B",3,"C",20043,"['MWF 0200-0255PM']","","Research",2004,26
+"686",9812,1,1113,"['PSCI']","",NA,"['Sheryl D. Breen']",200,"['HH 302']","Analyzing Politics","",220,"False","False","",3,"C",20043,"['MWF 0800-0855']","","Research",2004,21
+"687",9813,1,1124,"['PSCI']","",NA,"['Katherine S. Tegtmeyer Pak']",200,"['OM 002']","Japanese Pol & Society","",254,"False","False","",3,"O",20043,"['MWF 0905-1000']","","Research",2004,12
+"688",9814,1,1128,"['PSCI']","",NA,"['Stephen B. Dyson']",200,"['OM 030']","World Politics","",258,"False","False","A",3,"C",20043,"['MWF 1045-1140']","","Research",2004,24
+"689",9815,1,1128,"['PSCI']","",NA,"['Stephen B. Dyson']",200,"['OM 030']","World Politics","",258,"False","False","B",3,"C",20043,"['MWF 1150-1245PM']","","Research",2004,16
+"690",9816,1,1130,"['PSCI']","",NA,"['William A. Gorton']",200,"['SC 130', 'SC 130']","Hist Mod Pol Thought","",260,"False","False","",3,"C",20043,"['T 0120-0245PM', 'Th 0215-0335PM']","","Research",2004,27
+"691",9817,1,1133,"['PSCI']","",NA,"['Jo M. Beld']",200,"['OM 004', 'OM 004']","Family Values","",270,"False","False","",3,"C",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Research",2004,20
+"692",9818,1,1139,"['PSCI']","",NA,"['Sheryl D. Breen']",200,"","Academic Internship","",294,"True","False","",3,"O",20043,"","","Research",2004,2
+"693",9819,1,1139,"['PSCI']","",NA,"['Donald I. Ostrom']",200,"","Academic Internship","",294,"True","False","A",3,"O",20043,"","","Research",2004,2
+"694",9820,1,1141,"['PSCI']","",NA,"['Kristina Thalhammer']",200,"","IS/Devlpmnt Theories","",298,"False","False","",3,"O",20043,"","","Research",2004,1
+"695",9821,1,1142,"['PSCI']","",NA,"['Staff']",200,"['HH 301']","Top: Urban Politics","",299,"False","False","A",3,"O",20043,"['M 0700-1000PM']","","Topic",2004,13
+"696",9822,1,1142,"['PSCI']","",NA,"['Donald I. Ostrom']",200,"['HH 514', 'HH 514']","Top: Amer Presidency","",299,"False","False","B",3,"O",20043,"['T 0935-1100', 'Th 0930-1050']","","Topic",2004,17
+"697",9823,1,1143,"['PSCI']","",NA,"['Roudy W. Hildreth']",300,"['HH 302']","Sem: American Politics","",311,"False","False","",3,"C",20043,"['M 0700-1000PM']","","Seminar",2004,18
+"698",9824,1,1144,"['PSCI']","",NA,"['Stephen B. Dyson']",300,"['HH 403', 'HH 403']","Sem: Intl Relations","",321,"False","False","",3,"C",20043,"['T 0935-1100', 'Th 0930-1050']","","Seminar",2004,16
+"699",9825,1,1145,"['PSCI']","",NA,"['Kristina Thalhammer']",300,"['HH 317', 'HH 317']","Sem: Latin Am Politics","",367,"False","False","",3,"C",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Seminar",2004,17
+"700",9826,1,1151,"['PSCI']","",NA,"['Donald I. Ostrom']",300,"","Academic Internship","",394,"True","False","",3,"O",20043,"","","Research",2004,1
+"701",9827,1,1152,"['PSCI']","",NA,"['Staff']",300,"","IR/","",398,"False","False","",3,"O",20043,"","","Research",2004,0
+"741",9867,1,1191,"['REL']","",NA,"['Margaret Odell']",100,"['BMC 102', 'BMC 102']","Bible/Culture/Commun","",121,"False","False","A",3,"C",20043,"['T 0935-1100', 'Th 0930-1050']","","Research",2004,21
+"742",9868,1,1191,"['REL']","",NA,"['Gary Stansell']",100,"['BMC 101']","Bible/Culture/Commun","",121,"False","False","B",3,"C",20043,"['MWF 0800-0855']","","Research",2004,25
+"743",9869,1,1191,"['REL']","",NA,"['Gary Stansell']",100,"['BMC 101']","Bible/Culture/Commun","",121,"False","False","C",3,"C",20043,"['MWF 1045-1140']","","Research",2004,25
+"744",9870,1,1191,"['REL']","",NA,"['James Hanson']",100,"['BMC 101']","Bible/Culture/Commun","",121,"False","False","D",3,"C",20043,"['MWF 1150-1245PM']","","Research",2004,25
+"745",9871,1,1191,"['REL']","",NA,"['James Hanson']",100,"['BMC 101']","Bible/Culture/Commun","",121,"False","False","E",3,"C",20043,"['MWF 0200-0255PM']","","Research",2004,25
+"746",9872,1,1191,"['REL']","",NA,"['L. DeAne Lagerquist']",100,"['BMC 111', 'BMC 111']","Bible/Culture/Commun","",121,"False","False","F",3,"C",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Research",2004,23
+"747",9873,1,1191,"['REL']","",NA,"['John Barbour']",100,"['BMC 111']","Bible/Culture/Commun","",121,"False","False","G",3,"C",20043,"['MWF 1045-1140']","","Research",2004,22
+"748",9874,1,1191,"['REL']","",NA,"['Susan Lindley']",100,"['BMC 111', 'BMC 111']","Bible/Culture/Commun","",121,"False","False","H",3,"C",20043,"['T 0800-0925', 'Th 0800-0920']","","Research",2004,23
+"749",9875,1,1191,"['REL']","",NA,"['Susan Lindley']",100,"['BMC 111', 'BMC 111']","Bible/Culture/Commun","",121,"False","False","I",3,"C",20043,"['T 0935-1100', 'Th 0930-1050']","","Research",2004,24
+"750",9876,1,1191,"['REL']","",NA,"['Elizabeth C. Galbraith']",100,"['BMC 101', 'BMC 101']","Bible/Culture/Commun","",121,"False","False","J",3,"C",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Research",2004,24
+"751",9877,1,1191,"['REL']","",NA,"['Amy R. Gohdes-Luhman']",100,"['BMC 101', 'BMC 101']","Bible/Culture/Commun","",121,"False","False","K",3,"C",20043,"['T 0120-0245PM', 'Th 0215-0335PM']","","Research",2004,20
+"752",9878,1,1191,"['REL']","",NA,"['David Booth']",100,"['BMC 110']","Bible/Culture/Commun","",121,"False","False","L",3,"C",20043,"['MWF 1255-0150PM']","","Research",2004,22
+"753",9879,1,1191,"['REL']","",NA,"['William Poehlmann']",100,"['BMC 102', 'BMC 102']","Bible/Culture/Commun","",121,"False","False","M",3,"C",20043,"['T 0800-0925', 'Th 0800-0920']","","Research",2004,24
+"754",9880,1,1191,"['REL']","",NA,"['Mary E. Anderson']",100,"['BMC 110']","Bible/Culture/Commun","",121,"False","False","N",3,"C",20043,"['MWF 0905-1000']","","Research",2004,26
+"755",9881,1,1191,"['REL']","",NA,"['Philip E. Stoltzfus']",100,"['BMC 102']","Bible/Culture/Commun","",121,"False","False","O",3,"C",20043,"['MWF 1150-1245PM']","","Research",2004,22
+"756",9882,1,1191,"['REL']","",NA,"['Philip E. Stoltzfus']",100,"['BMC 102']","Bible/Culture/Commun","",121,"False","False","P",3,"C",20043,"['MWF 1255-0150PM']","","Research",2004,16
+"757",9883,1,1192,"['REL']","",NA,"['Gregory A. Walter']",200,"['BMC 101', 'BMC 101']","Essentials Chr Theol","",201,"False","False","A",3,"C",20043,"['T 0800-0925', 'Th 0800-0920']","","Research",2004,21
+"758",9884,1,1192,"['REL']","",NA,"['Gregory A. Walter']",200,"['BMC 102', 'BMC 102']","Essentials Chr Theol","",201,"False","False","B",3,"C",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Research",2004,24
+"759",9885,1,1193,"['REL']","",NA,"['Jason J. Ripley']",200,"['BMC 110']","Classics and Moderns","",202,"False","False","A",3,"C",20043,"['MWF 1045-1140']","","Research",2004,19
+"760",9886,1,1193,"['REL']","",NA,"['Jason J. Ripley']",200,"['BMC 110']","Classics and Moderns","",202,"False","False","B",3,"C",20043,"['MWF 1150-1245PM']","","Research",2004,25
+"761",9887,1,1194,"['REL']","",NA,"['Elaine G. Siemsen']",200,"['BMC 110', 'BMC 110']","The Greats","",203,"False","False","A",3,"C",20043,"['T 0935-1100', 'Th 0930-1050']","","Research",2004,26
+"762",9888,1,1194,"['REL']","",NA,"['Elaine G. Siemsen']",200,"['BMC 110', 'BMC 110']","The Greats","",203,"False","False","B",3,"C",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Research",2004,26
+"763",9889,1,1197,"['REL']","",NA,"['Philip E. Stoltzfus']",200,"['BMC 111']","Intro Feminist Theol","",209,"False","False","",3,"C",20043,"['MWF 0905-1000']","","Research",2004,27
+"764",9890,1,1198,"['REL']","",NA,"['Mary E. Anderson']",200,"['BMC 110']","Chr Theol in History","",212,"False","False","",3,"C",20043,"['MWF 0800-0855']","","Research",2004,21
+"765",9891,1,1202,"['REL']","",NA,"['Jamie A. Schillinger']",200,"['BMC 111']","Christ/Islamic Ethics","",217,"False","False","",3,"C",20043,"['MWF 1255-0150PM']","","Research",2004,25
+"766",9892,1,1207,"['REL']","",NA,"['William Poehlmann']",200,"['BMC 102']","St.Paul/Letter/Gospel","",223,"False","False","",3,"C",20043,"['MWF 1045-1140']","","Research",2004,31
+"767",9893,1,1211,"['REL']","",NA,"['Jason J. Ripley']",200,"['BMC 110', 'BMC 110']","Jews & Christians/Aft","",227,"False","False","",3,"C",20043,"['T 0800-0925', 'Th 0800-0920']","","Research",2004,26
+"768",9894,1,1213,"['REL']","",NA,"['Gary Stansell']",200,"['BMC 101']","Theology of Creation","",230,"False","False","",3,"C",20043,"['MWF 0905-1000']","","Research",2004,22
+"770",9896,1,1217,"['REL']","",NA,"['Jamie A. Schillinger']",200,"['BMC 102']","Islam-Rel & Community","",246,"False","False","",3,"C",20043,"['MWF 0200-0255PM']","","Research",2004,25
+"771",9897,1,1221,"['REL']","",NA,"['Barbara Reed']",200,"['BMC 101', 'BMC 101']","Religions China/Japan","",256,"False","False","",3,"C",20043,"['T 0935-1100', 'Th 0930-1050']","","Research",2004,29
+"772",9898,1,1228,"['REL']","",NA,"['Margaret Odell']",200,"['BMC 102', 'BMC 102']","Hebrew Prophets","",271,"False","False","",3,"C",20043,"['T 0120-0245PM', 'Th 0215-0335PM']","","Research",2004,26
+"773",9899,1,1232,"['REL']","",NA,"['James Hanson']",200,"['BMC 101']","The Ethics of Jesus","",276,"False","False","",3,"C",20043,"['MWF 1255-0150PM']","","Research",2004,30
+"774",9900,1,1233,"['REL']","",NA,"['John Barbour']",200,"['BMC 111']","Religion & Literature","",280,"False","False","",3,"C",20043,"['MWF 0200-0255PM']","","Research",2004,19
+"775",9901,1,1236,"['REL']","",NA,"['Staff']",200,"","Academic Internship","",294,"True","False","",3,"O",20043,"","","Research",2004,0
+"776",9902,1,1239,"['REL']","",NA,"['James Hanson']",200,"","IS/Noncanonical Jesus","",298,"False","False","",3,"O",20043,"","","Research",2004,3
+"777",9903,1,1242,"['REL']","",NA,"['Elizabeth C. Galbraith']",300,"['BMC 110', 'BMC 110']","Hist Chr Thought II","",303,"False","False","",3,"C",20043,"['T 0120-0245PM', 'Th 0215-0335PM']","","Research",2004,17
+"778",9904,1,1244,"['REL']","",NA,"['William Poehlmann']",300,"['BMC 109', 'BMC 109']","Top: Intrp Sacred Txt","",320,"False","False","",3,"O",20043,"['T 0935-1100', 'Th 0930-1050']","","Topic",2004,8
+"779",9905,1,1246,"['REL']","",NA,"['David Booth']",300,"['BMC 110']","Feminist/Chr Ethic","",344,"False","False","",3,"C",20043,"['M 0700-1000PM']","","Research",2004,25
+"780",9906,1,1253,"['REL']","",NA,"['Staff']",300,"","Academic Internship","",394,"True","False","",3,"O",20043,"","","Research",2004,0
+"781",9907,1,1257,"['REL']","",NA,"['James Hanson']",300,"","IR/Jesus and Judaism","",398,"False","False","",3,"O",20043,"","","Research",2004,1
+"782",9908,1,1257,"['REL']","",NA,"['John Barbour']",300,"","IR/Body in Conversion","",398,"False","False","A",3,"O",20043,"","","Research",2004,1
+"783",9909,1,1257,"['REL']","",NA,"['Eric Lund']",300,"","IR/Percept of ISrael","",398,"False","False","B",3,"O",20043,"","","Research",2004,1
+"784",9910,1,1258,"['REL']","",NA,"['Barbara Reed']",300,"['BMC 109', 'BMC 109']","Th Sem: Rel, Globalism","",399,"False","False","A",3,"O",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Research",2004,7
+"785",9911,1,1258,"['REL']","",NA,"['Susan Lindley']",300,"['BMC 109']","Th Sem: Devmts/Am Rel","",399,"False","False","B",3,"O",20043,"['MWF 1150-1245PM']","","Research",2004,5
+"786",9912,1,1261,"['RUSSN']","",NA,"['Marc Robinson']",100,"['OM 011', 'OM 003']","Beginning Russian II","",112,"False","False","A",3,"C",20043,"['MWF 1150-1245PM', 'T 1150-1245PM']","","Research",2004,10
+"787",9913,1,1261,"['RUSSN']","",NA,"['Marc Robinson']",100,"['OM 011', 'OM 003']","Beginning Russian II","",112,"False","False","B",3,"O",20043,"['MWF 0200-0255PM', 'T 1150-1245PM']","","Research",2004,5
+"788",9914,1,1261,"['RUSSN']","",NA,"['Marc Robinson']",100,"['OM 011', 'OM 003']","Beginning Russian II","",112,"False","False","C",3,"O",20043,"['MWF 1150-1245PM', 'T 0200-0255PM']","","Research",2004,5
+"789",9915,1,1261,"['RUSSN']","",NA,"['Marc Robinson']",100,"['OM 011', 'OM 003']","Beginning Russian II","",112,"False","False","D",3,"O",20043,"['MWF 0200-0255PM', 'T 0200-0255PM']","","Research",2004,6
+"790",9916,1,1266,"['RUSSN']","",NA,"['Irina Walter']",200,"['OM 004', 'OM 030']","Intermed Russian II","",232,"False","False","",3,"O",20043,"['MWF 1150-1245PM', 'T 1150-1245PM']","","Research",2004,13
+"791",9917,1,1270,"['RUSSN']","",NA,"['Irina Walter']",200,"['OM 004']","Russ Culture & Civ","",254,"False","False","",3,"O",20043,"['MWF 1255-0150PM']","","Research",2004,9
+"792",9918,1,1272,"['RUSSN']","",NA,"['Marc Robinson']",200,"['OM 011']","Intro Russ Lit I-Tr","",261,"False","False","",3,"C",20043,"['MWF 1045-1140']","","Research",2004,20
+"793",9919,1,1276,"['RUSSN']","",NA,"['Marc Robinson']",200,"","IS/Metaph,Faith,Film","",298,"False","False","",3,"O",20043,"","","Research",2004,1
+"794",9920,1,1278,"['RUSSN']","",NA,"['Irina Walter']",300,"['OM 003']","The Russian Press","",372,"False","False","",3,"O",20043,"['MWF 0200-0255PM']","","Research",2004,4
+"795",9921,1,1289,"['SOAN']","",NA,"['Raymond DeVries']",100,"['OM 026', 'OM 026']","Intro to Sociology","",121,"False","False","A",3,"C",20043,"['T 0800-0925', 'Th 0800-0920']","","Research",2004,26
+"796",9922,1,1289,"['SOAN']","",NA,"['Stephen E. Philion']",100,"['OM 035', 'OM 035']","Intro to Sociology","",121,"False","False","B",3,"C",20043,"['T 0935-1100', 'Th 0930-1050']","","Research",2004,23
+"797",9923,1,1294,"['SOAN']","",NA,"['Thomas A. Williamson']",100,"['OM 035']","Int/Cult Anthropology","",128,"False","False","A",3,"C",20043,"['MWF 0905-1000']","","Research",2004,27
+"798",9924,1,1294,"['SOAN']","",NA,"['Thomas A. Williamson']",100,"['OM 035']","Int/Cult Anthropology","",128,"False","False","B",3,"C",20043,"['MWF 1045-1140']","","Research",2004,24
+"799",9925,1,1299,"['SOAN']","",NA,"['Grant P. Arndt']",200,"['OM 035']","Native N Amer Culture","",234,"False","False","",3,"C",20043,"['MWF 1255-0150PM']","","Research",2004,28
+"800",9926,1,1301,"['SOAN']","",NA,"['Samiha Peterson']",200,"['HH 403', 'HH 403']","The Arab World","",236,"False","False","A",3,"C",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Research",2004,13
+"801",9927,1,1301,"['SOAN']","",NA,"['Samiha Peterson']",200,"['HH 403', 'HH 403']","The Arab World","",236,"False","False","B",3,"O",20043,"['T 0120-0245PM', 'Th 0215-0335PM']","","Research",2004,20
+"802",9928,1,1303,"['SOAN']","",NA,"['Thomas A. Williamson']",200,"['SH 02']","Modern Southeast Asia","",239,"False","False","",3,"C",20043,"['MWF 1255-0150PM']","","Research",2004,28
+"803",9929,1,1306,"['SOAN']","",NA,"['Bruce Nordstrom-Loeb']",200,"['OM 031']","Race/Class-Am Culture","",244,"False","False","A",3,"C",20043,"['MWF 1045-1140']","","Research",2004,31
+"804",9930,1,1306,"['SOAN']","",NA,"['Grant P. Arndt']",200,"['RML 577']","Race/Class-Am Culture","",244,"False","False","B",3,"C",20043,"['MWF 1150-1245PM']","","Research",2004,27
+"805",9931,1,1309,"['SOAN']","",NA,"['Carolyn Anderson']",200,"['OM 011']","Indigenous Peoples","",249,"False","False","A",3,"C",20043,"['MWF 0905-1000']","","Research",2004,11
+"806",9932,1,1309,"['SOAN']","",NA,"['Carolyn Anderson']",200,"['HH 403']","Indigenous Peoples","",249,"False","False","B",3,"C",20043,"['MWF 1150-1245PM']","","Research",2004,20
+"807",9933,1,1311,"['SOAN']","",NA,"['Bruce Nordstrom-Loeb']",200,"['OM 031']","Gender/X-Cult/Perspec","",261,"False","False","",3,"C",20043,"['MWF 0200-0255PM']","","Research",2004,34
+"808",9934,1,1312,"['SOAN']","",NA,"['Christopher L. Chiappari']",200,"['OM 031', 'OM 031']","Rel, Culture, Society","",265,"False","False","",3,"C",20043,"['T 0935-1100', 'Th 0930-1050']","","Research",2004,25
+"809",9935,1,1313,"['SOAN']","",NA,"['Samiha Peterson']",200,"['HH 515', 'HH 515']","Sociological Theory","",291,"False","False","",3,"O",20043,"['T 0800-0925', 'Th 0800-0920']","","Research",2004,23
+"810",9936,1,1315,"['SOAN']","",NA,"['Christopher L. Chiappari']",200,"","Academic Internship","",294,"True","False","",3,"O",20043,"","","Research",2004,1
+"811",9937,1,1316,"['SOAN']","",NA,"['Christopher L. Chiappari']",200,"","IS/French Lifestyle","",298,"False","False","",3,"O",20043,"","","Research",2004,1
+"812",9938,1,1316,"['SOAN']","",NA,"['Carolyn Anderson']",200,"","IS/Grandma's Memoir","",298,"False","False","A",3,"O",20043,"","","Research",2004,1
+"813",9939,1,1318,"['SOAN']","",NA,"['Christopher L. Chiappari']",300,"['RML 421', 'RML 421']","Ethnograph Rsch Meth","",373,"False","False","",3,"O",20043,"['T 0120-0245PM', 'Th 0215-0335PM']","","Research",2004,22
+"814",9940,1,1320,"['SOAN']","",NA,"['Carolyn Anderson']",300,"","IR/Ethnography Theory","",398,"False","False","",3,"O",20043,"","","Research",2004,1
+"815",9941,1,1321,"['SOAN']","",NA,"['Raymond DeVries']",300,"['DC 204', 'DC 204']","Senior Seminar","",399,"False","False","",3,"O",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Research",2004,17
+"816",9942,1,1325,"['SPAN']","",NA,"['Patricia S. Stoppa']",100,"['OM 020']","Beginning Spanish II","",112,"False","False","A",3,"C",20043,"['MWF 0800-0855']","","Research",2004,25
+"817",9943,1,1325,"['SPAN']","",NA,"['Patricia S. Stoppa']",100,"['OM 020']","Beginning Spanish II","",112,"False","False","B",3,"C",20043,"['MWF 1255-0150PM']","","Research",2004,24
+"818",9944,1,1326,"['SPAN']","",NA,"['Gwendolyn Barnes-Karol']",200,"['OM 026']","Intermed Spanish I","",231,"False","False","B",3,"C",20043,"['MWF 1045-1140']","","Research",2004,27
+"819",9945,1,1326,"['SPAN']","",NA,"['Juliet A. Lynd']",200,"['OM 021']","Intermed Spanish I","",231,"False","False","C",3,"C",20043,"['MWF 1150-1245PM']","","Research",2004,25
+"820",9946,1,1326,"['SPAN']","",NA,"['Joan Odd']",200,"['OM 030']","Intermed Spanish I","",231,"False","False","D",3,"C",20043,"['MWF 1255-0150PM']","","Research",2004,19
+"821",9947,1,1327,"['SPAN']","",NA,"['Kris A. Cropsey']",200,"['OM 021']","Intermed Spanish II","",232,"False","False","A",3,"C",20043,"['MWF 0800-0855']","","Research",2004,22
+"822",9948,1,1327,"['SPAN']","",NA,"['Ariel Strichartz']",200,"['OM 021']","Intermed Spanish II","",232,"False","False","B",3,"C",20043,"['MWF 0905-1000']","","Research",2004,23
+"823",9949,1,1327,"['SPAN']","",NA,"['Kris A. Cropsey']",200,"['OM 020']","Intermed Spanish II","",232,"False","False","C",3,"C",20043,"['MWF 1150-1245PM']","","Research",2004,23
+"824",9950,1,1327,"['SPAN']","",NA,"['Leon Narvaez']",200,"['OM 021', 'OM 021']","Intermed Spanish II","",232,"False","False","D",3,"O",20043,"['T 0800-0925', 'Th 0800-0920']","","Research",2004,16
+"825",9951,1,1327,"['SPAN']","",NA,"['Sylvia Carullo']",200,"['OM 020', 'OM 020']","Intermed Spanish II","",232,"False","False","E",3,"C",20043,"['T 0935-1100', 'Th 0930-1050']","","Research",2004,21
+"826",9952,1,1327,"['SPAN']","",NA,"['Joan Odd']",200,"['OM 021', 'OM 021']","Intermed Spanish II","",232,"False","False","F",3,"O",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Research",2004,14
+"827",9953,1,1327,"['SPAN']","",NA,"['Joan Odd']",200,"['OM 021', 'OM 021']","Intermed Spanish II","",232,"False","False","G",3,"O",20043,"['T 0120-0245PM', 'Th 0215-0335PM']","","Research",2004,16
+"828",9954,1,1327,"['SPAN']","",NA,"['Patricia S. Stoppa']",200,"['OM 021']","Intermed Spanish II","",232,"False","False","H",3,"C",20043,"['MWF 0200-0255PM']","","Research",2004,20
+"829",9955,1,1331,"['SPAN']","",NA,"['Leon Narvaez']",200,"['OM 021', 'OM 021']","Cult & Civ of Spain","",251,"False","False","A",3,"O",20043,"['T 0935-1100', 'Th 0930-1050']","","Research",2004,19
+"830",9956,1,1331,"['SPAN']","",NA,"['Leon Narvaez']",200,"['OM 020', 'OM 020']","Cult & Civ of Spain","",251,"False","False","B",3,"O",20043,"['T 0120-0245PM', 'Th 0215-0335PM']","","Research",2004,14
+"831",9957,1,1332,"['SPAN']","",NA,"['Juliet A. Lynd']",200,"['OM 020']","Cult & Civ of Lat Am","",254,"False","False","A",3,"O",20043,"['MWF 0200-0255PM']","","Research",2004,11
+"832",9958,1,1332,"['SPAN']","",NA,"['Juliet A. Lynd']",200,"['OM 020']","Cult & Civ of Lat Am","",254,"False","False","B",3,"C",20043,"['MWF 0905-1000']","","Research",2004,16
+"833",9959,1,1333,"['SPAN']","",NA,"['Kris A. Cropsey']",200,"['OM 021']","Hispanic Linguistics","",261,"False","False","",3,"O",20043,"['MWF 1255-0150PM']","","Research",2004,18
+"834",9960,1,1341,"['SPAN']","",NA,"['Ariel Strichartz']",200,"","Academic Internship","",294,"True","False","",3,"O",20043,"","","Research",2004,1
+"835",9961,1,1342,"['SPAN']","",NA,"['Staff']",200,"","IS/","",298,"False","False","",3,"O",20043,"","","Research",2004,0
+"836",9962,1,1350,"['SPAN']","",NA,"['Joseph McClanahan']",300,"['OM 021']","Spanish Poetry","",375,"False","False","",3,"C",20043,"['MWF 1045-1140']","","Research",2004,23
+"837",9963,1,1354,"['SPAN']","",NA,"['Staff']",300,"","Academic Internship","",394,"True","False","",3,"O",20043,"","","Research",2004,0
+"838",9964,1,1355,"['SPAN']","",NA,"['Staff']",300,"","IR/","",398,"False","False","",3,"O",20043,"","","Research",2004,0
+"839",9965,1,1356,"['SPAN']","",NA,"['Sylvia Carullo']",300,"['OM 020', 'OM 020']","Seminar in Literature","",399,"False","False","",3,"O",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Research",2004,17
+"840",9966,1,1363,"['SWRK']","",NA,"['Sarah M. Ferguson']",200,"['HH 317']","Social Policy","",258,"False","False","",3,"C",20043,"['MWF 1150-1245PM']","","Research",2004,23
+"841",9967,1,1364,"['SWRK']","",NA,"['Naurine Lennox']",200,"['HH 516', 'HH 516']","Social Work Methds II","",261,"False","False","",3,"O",20043,"['T 0935-1100', 'Th 0930-1050']","","Research",2004,7
+"842",9968,1,1365,"['SWRK']","",NA,"['Sarah M. Ferguson']",200,"['SC 110', 'SC 110']","Eval/Sw Practice/Prog","",274,"False","False","",3,"O",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Research",2004,13
+"843",9969,1,1371,"['SWRK']","",NA,"['Mary Carlsen']",300,"['HH 302', 'HH 302']","Social Worker as Prof","",381,"False","False","",3,"O",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Research",2004,12
+"844",9970,1,1375,"['THEAT']","",NA,"['Gary C. Gisselman']",100,"['TB Kelsey']","Intro to Theater","",110,"False","False","",3,"C",20043,"['MWF 1045-1140']","","Research",2004,57
+"845",9971,1,1376,"['THEAT']","",NA,"['Dona W. Freeman']",100,"['TB Haugen', 'TB Haugen']","Acting for Non-Majors","",115,"False","False","",3,"C",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Research",2004,19
+"846",9972,1,1377,"['THEAT']","",NA,"['Barbara J. Evans']",100,"['TB 216']","Public Speaking","",120,"False","False","",3,"C",20043,"['MWF 0905-1000']","","Research",2004,25
+"847",9973,1,1378,"['THEAT']","",NA,"['Dona W. Freeman']",100,"['TB Haugen', 'TB Haugen']","Intro to Acting","",130,"False","False","",3,"C",20043,"['T 0120-0245PM', 'Th 0215-0335PM']","","Research",2004,19
+"848",9974,1,1379,"['THEAT']","",NA,"['James McKeel', 'Dona W. Freeman']",100,"['CHM_URNESS', 'CHM_URNESS']","Acting--Lyric Stage","",131,"False","False","",3,"C",20043,"['T 0935-1100', 'Th 0930-1050']","","Research",2004,14
+"849",9975,1,1382,"['THEAT']","",NA,"['Karen Wilson']",200,"['TB 227']","Voice & Phonetics","",200,"False","False","",3,"C",20043,"['MWF 1045-1140']","","Research",2004,33
+"852",9978,1,1392,"['THEAT']","",NA,"['Jeanne I. Willcoxon']",200,"['TB 227', 'TB 227']","Hist/Theat-Since 1700","",271,"False","False","",3,"C",20043,"['T 0120-0245PM', 'Th 0215-0335PM']","","Research",2004,24
+"853",9979,1,1394,"['THEAT']","",NA,"['Staff']",200,"","Academic Internship","",294,"True","False","",3,"O",20043,"","","Research",2004,0
+"854",9980,1,1395,"['THEAT']","",NA,"['Gary C. Gisselman']",200,"","IS/Working in Theater","",298,"False","False","",3,"O",20043,"","","Research",2004,1
+"855",9981,1,1395,"['THEAT']","",NA,"['Karen Wilson']",200,"","IS/Advanced Acting","",298,"False","False","A",3,"O",20043,"","","Research",2004,0
+"856",9982,1,1395,"['THEAT']","",NA,"['Karen Wilson']",200,"","IS/Topic Theater Hist","",298,"False","False","B",3,"O",20043,"","","Research",2004,1
+"857",9983,1,1396,"['THEAT']","",NA,"['Gary C. Gisselman']",300,"['TB Haugen']","Adv Stage Direction","",338,"False","False","",3,"C",20043,"['MWF 0905-1000']","","Research",2004,14
+"858",9984,1,1397,"['THEAT']","",NA,"['Brian Bjorklund']",300,"['SPT_GREEN_RM', 'SPT_GREEN_RM']","Design for Theatre","",352,"False","False","",3,"C",20043,"['T 0935-1100', 'Th 0930-1050']","","Research",2004,14
+"859",9985,1,1398,"['THEAT']","",NA,"['Gwendolyn Schwinke']",300,"['FH 40', 'FH 40']","Top: Phys Life/Stage","",379,"False","False","",3,"C",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Topic",2004,16
+"860",9986,1,1399,"['THEAT']","",NA,"['Karen Wilson']",300,"['TB 216']","Top: Theatre in Societ","",380,"False","False","",3,"C",20043,"['MWF 1255-0150PM']","","Topic",2004,26
+"861",9987,1,1400,"['THEAT']","",NA,"['Staff']",300,"","Academic Internship","",394,"True","False","",3,"O",20043,"","","Research",2004,0
+"862",9988,1,1401,"['THEAT']","",NA,"['Gary C. Gisselman']",300,"","IR/Directing Theory","",398,"False","False","",3,"O",20043,"","","Research",2004,1
+"863",9989,1,1401,"['THEAT']","",NA,"['Karen Wilson']",300,"","IR/Advanced Acting","",398,"False","False","A",3,"O",20043,"","","Research",2004,1
+"864",9990,1,1401,"['THEAT']","",NA,"['Karen Wilson']",300,"","IR/Monologue Studies","",398,"False","False","B",3,"O",20043,"","","Research",2004,1
+"878",10136,1,1476,"['WMNST']","",NA,"['Diane C. LeBlanc']",100,"['RML 420']","Intro Women's Studies","",121,"False","False","",3,"C",20043,"['MWF 1150-1245PM']","","Research",2004,21
+"879",10137,1,1481,"['WMNST']","",NA,"['Sheryl D. Breen']",300,"['HH 515', 'HH 515']","Sem: Women Cross-Cult","",399,"False","False","",3,"O",20043,"['T 0120-0245PM', 'Th 0215-0335PM']","","Seminar",2004,8
+"880",10138,1,1486,"['ARMS']","",NA,"['Mary Carlsen']",200,"","Academic Internship","",294,"True","False","",3,"O",20043,"","","Research",2004,0
+"881",10139,1,1486,"['ARMS']","",NA,"['Eric J. Fure-Slocum']",200,"","Academic Internship","",294,"True","False","A",3,"O",20043,"","","Research",2004,1
+"882",10140,1,1487,"['ARMS']","",NA,"['Michael Fitzgerald']",200,"","IS/Civil Rights","",298,"False","False","",3,"O",20043,"","","Research",2004,1
+"883",10141,1,1488,"['ARMS']","",NA,"['Eric J. Fure-Slocum']",300,"","Academic Internship","",394,"True","False","",3,"O",20043,"","","Research",2004,0
+"884",10142,1,1488,"['ARMS']","",NA,"['Mary Carlsen']",300,"","Academic Internship","",394,"True","False","A",3,"O",20043,"","","Research",2004,1
+"885",47386,1,689,"['IS']","",NA,"['Mark Schelske']",300,"","Senior Project I","",391,"True","False","B",3,"O",20043,"","","Research",2004,1
+"886",47387,1,690,"['IS']","",NA,"['David Van Wylen']",300,"","Senior Project II","",392,"False","False","B",3,"O",20043,"","","Research",2004,1
+"887",47388,1,690,"['IS']","",NA,"['Shelly D. Dickinson']",300,"","Senior Project II","",392,"False","False","C",3,"O",20043,"","","Research",2004,1
+"888",47389,1,690,"['IS']","",NA,"['James McKeel']",300,"","Senior Project II","",392,"False","False","D",3,"O",20043,"","","Research",2004,1
+"889",47390,1,690,"['IS']","",NA,"['David Schodt']",300,"","Senior Project II","",392,"False","False","E",3,"O",20043,"","","Research",2004,1
+"890",47391,1,690,"['IS']","",NA,"['Marc Robinson']",300,"","Senior Project II","",392,"False","False","F",3,"O",20043,"","","Research",2004,1
+"891",47392,1,690,"['IS']","",NA,"['Gary Wicks']",300,"","Senior Project II","",392,"False","False","G",3,"O",20043,"","","Research",2004,1
+"892",47393,1,690,"['IS']","",NA,"['Maria L. Kelly']",300,"","Senior Project II","",392,"False","False","H",3,"O",20043,"","","Research",2004,1
+"893",47394,1,690,"['IS']","",NA,"['Rebecca Judge']",300,"","Senior Project II","",392,"False","False","I",3,"O",20043,"","","Research",2004,1
+"894",47395,1,690,"['IS']","",NA,"['Sheryl D. Breen']",300,"","Senior Project II","",392,"False","False","J",3,"O",20043,"","","Research",2004,1
+"895",47396,1,690,"['IS']","",NA,"['Joan Hepburn']",300,"","Senior Project II","",392,"False","False","K",3,"O",20043,"","","Research",2004,1
+"896",47397,1,690,"['IS']","",NA,"['Karen Wilson']",300,"","Senior Project II","",392,"False","False","L",3,"O",20043,"","","Research",2004,1
+"897",47423,1,847,"['MUSIC']","",NA,"['David Carter']",200,"","IS/Cello Ped and Lit","",298,"False","False","D",3,"C",20043,"","","Research",2004,1
+"898",47582,1,795,"['MEDIA']","",NA,"['Jan C. Hill']",200,"","Academic Internship","",294,"True","False","A",3,"O",20043,"","","Research",2004,1
