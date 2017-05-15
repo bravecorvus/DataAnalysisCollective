@@ -330,28 +330,6 @@
 "647",657,1,1310,"['SOAN']",NA,"['Michael Leming']",200,"['H 403']","Marriage & the Family",260,"False","False","B",1,"C",20001,"['MWF 1045-1140']","Research",2000,28
 "648",658,1,1317,"['SOAN']",NA,"['Michael Gibbons']",300,"['H 515']","Found Soc Sci Resrch",371,"False","False","",1,"C",20001,"['MWF 0905-1000']","Research",2000,21
 "649",659,1,1320,"['SOAN']",NA,"['Michael Gibbons']",300,"","IR/Research for Nfpd",398,"False","False","",1,"O",20001,"","Research",2000,1
-"650",660,1,1324,"['SPAN']",NA,"['Joan Odd']",100,"['M 20']","Beginning Spanish I",111,"False","False","A",1,"O",20001,"['MWF 0800-0855']","Research",2000,24
-"651",661,1,1324,"['SPAN']",NA,"['Juliet A. Lynd']",100,"['M 21']","Beginning Spanish I",111,"False","False","B",1,"O",20001,"['MWF 1255-0150PM']","Research",2000,24
-"652",662,1,1324,"['SPAN']",NA,"['Juliet A. Lynd']",100,"['M 31']","Beginning Spanish I",111,"False","False","C",1,"O",20001,"['MWF 0200-0255PM']","Research",2000,24
-"653",663,1,1325,"['SPAN']",NA,"['Sylvia Carullo']",100,"['M 4']","Beginning Spanish II",112,"False","False","A",1,"O",20001,"['MWF 0905-1000']","Research",2000,24
-"654",664,1,1325,"['SPAN']",NA,"['Joan Odd']",100,"['M 20']","Beginning Spanish II",112,"False","False","B",1,"O",20001,"['MWF 1045-1140']","Research",2000,22
-"655",665,1,1325,"['SPAN']",NA,"['Joan Odd']",100,"['M 35']","Beginning Spanish II",112,"False","False","C",1,"O",20001,"['MWF 1255-0150PM']","Research",2000,20
-"656",666,1,1325,"['SPAN']",NA,"['Terri Greenslade']",100,"['M 20']","Beginning Spanish II",112,"False","False","D",1,"O",20001,"['MWF 0200-0255PM']","Research",2000,18
-"657",667,1,1326,"['SPAN']",NA,"['Leon Narvaez']",200,"['M 21']","Intermed Spanish I",231,"False","False","A",1,"O",20001,"['MWF 0800-0855']","Research",2000,23
-"658",668,1,1326,"['SPAN']",NA,"['Leon Narvaez']",200,"['M 21']","Intermed Spanish I",231,"False","False","B",1,"O",20001,"['MWF 0905-1000']","Research",2000,26
-"659",669,1,1326,"['SPAN']",NA,"['Maggie Broner']",200,"['M 20']","Intermed Spanish I",231,"False","False","C",1,"C",20001,"['MWF 0905-1000']","Research",2000,28
-"660",670,1,1326,"['SPAN']",NA,"['Maggie Broner']",200,"['M 21']","Intermed Spanish I",231,"False","False","D",1,"O",20001,"['MWF 1045-1140']","Research",2000,23
-"661",671,1,1326,"['SPAN']",NA,"['Terri Greenslade']",200,"['M 21']","Intermed Spanish I",231,"False","False","E",1,"O",20001,"['MWF 1150-1245PM']","Research",2000,24
-"662",672,1,1326,"['SPAN']",NA,"['Gwendolyn Barnes-Karol']",200,"['M 20']","Intermed Spanish I",231,"False","False","F",1,"C",20001,"['MWF 1255-0150PM']","Research",2000,29
-"663",673,1,1327,"['SPAN']",NA,"['Leon Narvaez']",200,"['M 21']","Intermed Spanish II",232,"False","False","A",1,"C",20001,"['TTh 0800-0925']","Research",2000,27
-"664",674,1,1327,"['SPAN']",NA,"['Frank L. Odd']",200,"['M 20']","Intermed Spanish II",232,"False","False","B",1,"O",20001,"['TTh 0935-1100']","Research",2000,23
-"665",675,1,1327,"['SPAN']",NA,"['Juliet A. Lynd']",200,"['M 20']","Intermed Spanish II",232,"False","False","C",1,"C",20001,"['TTh 1145-0110PM']","Research",2000,26
-"666",676,1,1327,"['SPAN']",NA,"['Frank L. Odd']",200,"['M 20']","Intermed Spanish II",232,"False","False","D",1,"O",20001,"['TTh 0120-0245PM']","Research",2000,23
-"667",677,1,1331,"['SPAN']",NA,"['Gwendolyn Barnes-Karol']",200,"['M 21']","Cult & Civ of Spain",251,"False","False","A",1,"C",20001,"['TTh 1145-0110PM']","Research",2000,19
-"668",678,1,1331,"['SPAN']",NA,"['Gwendolyn Barnes-Karol']",200,"['M 21']","Cult & Civ of Spain",251,"False","False","B",1,"O",20001,"['TTh 0120-0245PM']","Research",2000,17
-"669",679,1,1332,"['SPAN']",NA,"['Maggie Broner']",200,"['M 21']","Cult & Civ of Lat Am",254,"False","False","",1,"O",20001,"['MWF 0200-0255PM']","Research",2000,16
-"670",680,1,1350,"['SPAN']",NA,"['James A. Dunlop']",300,"['M 31']","Spanish Poetry",375,"False","False","",1,"O",20001,"['TTh 0120-0245PM']","Research",2000,15
-"671",681,1,1353,"['SPAN']",NA,"['Sylvia Carullo']",300,"['M 21']","Lat Am Lit 1940-Pres",388,"False","False","",1,"O",20001,"['TTh 0935-1100']","Research",2000,17
 "672",682,1,1359,"['SWRK']",NA,"['Mary Carlsen']",200,"['H 317']","Soc Work/Soc Services",221,"False","False","",1,"O",20001,"['MWF 1255-0150PM']","Research",2000,26
 "673",683,1,1360,"['SWRK']",NA,"['Mary Carlsen']",200,"['L 577']","Hum Behav in Soc Env",246,"False","False","",1,"O",20001,"['MWF 1045-1140']","Research",2000,15
 "674",684,1,1361,"['SWRK']",NA,"['Mary Carlsen']",200,"['H 515']","Social Work Methods I",254,"False","False","",1,"O",20001,"['TTh 1145-0110PM']","Research",2000,14

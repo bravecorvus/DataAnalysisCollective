@@ -248,10 +248,6 @@
 "422",8024,1,642,"['HIST']","",NA,"['Michael Fitzgerald']",300,"","IR/Marcus Garvey","",398,"False","False","B",1,"O",20041,"","Research",2004,1
 "423",8025,1,642,"['HIST']","",NA,"['Todd W. Nichol']",300,"","IR/Norse Christianity","",398,"False","False","C",1,"O",20041,"","Research",2004,1
 "424",8026,1,642,"['HIST']","",NA,"['Staff']",300,"","IR/","",398,"False","False","D",1,"O",20041,"","Research",2004,0
-"425",8027,1,643,"['HSPST']","",NA,"['Staff']",200,"","Academic Internship","",294,"True","False","",1,"O",20041,"","Research",2004,0
-"426",8028,1,644,"['HSPST']","",NA,"['Christopher L. Chiappari']",200,"","IS/Mexican Health","",298,"False","False","",1,"O",20041,"","Research",2004,2
-"427",8029,1,646,"['HSPST']","",NA,"['Staff']",300,"","Academic Internship","",394,"True","False","",1,"O",20041,"","Research",2004,0
-"428",8030,1,647,"['HSPST']","",NA,"['Staff']",300,"","IR/","",398,"False","False","",1,"O",20041,"","Research",2004,0
 "429",8031,1,648,"['FAMST']","",NA,"['C. George Holt']",200,"['BMC 111', 'BMC 111']","Intro: Family Studies","",232,"False","False","",1,"C",20041,"['T 0935-1100', 'Th 0930-1050']","Research",2004,28
 "430",8032,1,651,"['FAMST']","",NA,"['C. George Holt']",200,"['HH 501', 'HH 501']","Human Sexuality","",253,"False","False","A",1,"C",20041,"['T 1145-0110PM', 'Th 1245-0205PM']","Research",2004,34
 "431",8033,1,651,"['FAMST']","",NA,"['C. George Holt']",200,"['HH 501', 'HH 501']","Human Sexuality","",253,"False","False","B",1,"C",20041,"['T 0120-0245PM', 'Th 0215-0335PM']","Research",2004,34
@@ -505,33 +501,6 @@
 "868",8471,1,1316,"['SOAN']","",NA,"['Grant P. Arndt']",200,"","IS/Cont Nat Amer Spir","",298,"False","False","B",1,"O",20041,"","Research",2004,1
 "869",8472,1,1317,"['SOAN']","",NA,"['Raymond DeVries']",300,"['HH 515', 'HH 515']","Found Soc Sci Resrch","",371,"False","False","",1,"C",20041,"['T 0120-0245PM', 'Th 0215-0335PM']","Research",2004,19
 "870",8473,1,1319,"['SOAN']","",NA,"['Staff']",300,"","Academic Internship","",394,"True","False","",1,"O",20041,"","Research",2004,0
-"871",8474,1,1324,"['SPAN']","",NA,"['Barbara Olson']",100,"['OM 020']","Beginning Spanish I","",111,"False","False","",1,"C",20041,"['MWF 0800-0855']","Research",2004,15
-"872",8475,1,1325,"['SPAN']","",NA,"['Barbara Olson']",100,"['OM 020']","Beginning Spanish II","",112,"False","False","A",1,"C",20041,"['MWF 1045-1140']","Research",2004,22
-"873",8476,1,1325,"['SPAN']","",NA,"['Barbara Olson']",100,"['OM 020']","Beginning Spanish II","",112,"False","False","B",1,"O",20041,"['MWF 1150-1245PM']","Research",2004,17
-"874",8477,1,1325,"['SPAN']","",NA,"['Joseph McClanahan']",100,"['OM 020']","Beginning Spanish II","",112,"False","False","C",1,"O",20041,"['MWF 0200-0255PM']","Research",2004,19
-"875",8478,1,1326,"['SPAN']","",NA,"['Leon Narvaez']",200,"['OM 021']","Intermed Spanish I","",231,"False","False","A",1,"C",20041,"['MWF 0800-0855']","Research",2004,23
-"876",8479,1,1326,"['SPAN']","",NA,"['Leon Narvaez']",200,"['OM 021']","Intermed Spanish I","",231,"False","False","B",1,"C",20041,"['MWF 0905-1000']","Research",2004,22
-"877",8480,1,1326,"['SPAN']","",NA,"['Joseph McClanahan']",200,"['OM 021']","Intermed Spanish I","",231,"False","False","C",1,"C",20041,"['MWF 1045-1140']","Research",2004,25
-"878",8481,1,1326,"['SPAN']","",NA,"['Joseph McClanahan']",200,"['OM 021']","Intermed Spanish I","",231,"False","False","D",1,"C",20041,"['MWF 1150-1245PM']","Research",2004,25
-"879",8482,1,1326,"['SPAN']","",NA,"['Juliet A. Lynd']",200,"['OM 021']","Intermed Spanish I","",231,"False","False","E",1,"C",20041,"['MWF 1255-0150PM']","Research",2004,22
-"880",8483,1,1326,"['SPAN']","",NA,"['Joan Odd']",200,"['OM 004']","Intermed Spanish I","",231,"False","False","F",1,"C",20041,"['MWF 1255-0150PM']","Research",2004,21
-"881",8484,1,1326,"['SPAN']","",NA,"['Juliet A. Lynd']",200,"['OM 021']","Intermed Spanish I","",231,"False","False","G",1,"C",20041,"['MWF 0200-0255PM']","Research",2004,24
-"882",8485,1,1326,"['SPAN']","",NA,"['Joan Odd']",200,"['OM 004']","Intermed Spanish I","",231,"False","False","H",1,"C",20041,"['MWF 0200-0255PM']","Research",2004,22
-"883",8486,1,1327,"['SPAN']","",NA,"['Ariel Strichartz']",200,"['OM 020', 'OM 020']","Intermed Spanish II","",232,"False","False","A",1,"C",20041,"['T 0800-0925', 'Th 0800-0920']","Research",2004,23
-"884",8487,1,1327,"['SPAN']","",NA,"['Kris A. Cropsey']",200,"['OM 020', 'OM 020']","Intermed Spanish II","",232,"False","False","B",1,"C",20041,"['T 0935-1100', 'Th 0930-1050']","Research",2004,23
-"885",8488,1,1327,"['SPAN']","",NA,"['Kris A. Cropsey']",200,"['OM 020', 'OM 020']","Intermed Spanish II","",232,"False","False","C",1,"C",20041,"['T 1145-0110PM', 'Th 1245-0205PM']","Research",2004,23
-"886",8489,1,1327,"['SPAN']","",NA,"['Joan Odd']",200,"['OM 021', 'OM 021']","Intermed Spanish II","",232,"False","False","D",1,"C",20041,"['T 1145-0110PM', 'Th 1245-0205PM']","Research",2004,19
-"887",8490,1,1327,"['SPAN']","",NA,"['Ariel Strichartz']",200,"['OM 021', 'OM 021']","Intermed Spanish II","",232,"False","False","E",1,"C",20041,"['T 0120-0245PM', 'Th 0215-0335PM']","Research",2004,20
-"888",8491,1,1331,"['SPAN']","",NA,"['Gwendolyn Barnes-Karol']",200,"['OM 021', 'OM 021']","Cult & Civ of Spain","",251,"False","False","A",1,"C",20041,"['T 0800-0925', 'Th 0800-0920']","Research",2004,22
-"889",8492,1,1331,"['SPAN']","",NA,"['Gwendolyn Barnes-Karol']",200,"['OM 020', 'OM 020']","Cult & Civ of Spain","",251,"False","False","B",1,"C",20041,"['T 0120-0245PM', 'Th 0215-0335PM']","Research",2004,23
-"890",8493,1,1332,"['SPAN']","",NA,"['Juliet A. Lynd']",200,"['OM 030', 'OM 030']","Cult & Civ of Lat Am","",254,"False","False","",1,"O",20041,"['T 0935-1100', 'Th 0930-1050']","Research",2004,14
-"891",8494,1,1333,"['SPAN']","",NA,"['Kris A. Cropsey']",200,"['OM 035']","Hispanic Linguistics","",261,"False","False","",1,"C",20041,"['MWF 0200-0255PM']","Research",2004,22
-"892",8495,1,1341,"['SPAN']","",NA,"['Staff']",200,"","Academic Internship","",294,"True","False","",1,"O",20041,"","Research",2004,0
-"893",8496,1,1342,"['SPAN']","",NA,"['Staff']",200,"","IS/","",298,"False","False","",1,"O",20041,"","Research",2004,0
-"894",8497,1,1349,"['SPAN']","",NA,"['Leon Narvaez']",300,"['OM 021', 'OM 021']","Spanish Theater","",374,"False","False","",1,"O",20041,"['T 0935-1100', 'Th 0930-1050']","Research",2004,12
-"895",8498,1,1353,"['SPAN']","",NA,"['Ariel Strichartz']",300,"['OM 020']","Lat Am Lit 1940-Pres","",388,"False","False","",1,"C",20041,"['MWF 1255-0150PM']","Research",2004,22
-"896",8499,1,1354,"['SPAN']","",NA,"['Staff']",300,"","Academic Internship","",394,"True","False","",1,"O",20041,"","Research",2004,0
-"897",8500,1,1355,"['SPAN']","",NA,"['Staff']",300,"","IR/","",398,"False","False","",1,"O",20041,"","Research",2004,0
 "898",8501,1,1359,"['SWRK']","",NA,"['Mary Carlsen']",200,"['DC 204']","Soc Work/Soc Services","",221,"False","False","",1,"C",20041,"['MWF 1255-0150PM']","Research",2004,23
 "899",8502,1,1360,"['SWRK']","",NA,"['Mary Carlsen']",200,"['OM 003']","Hum Behav in Soc Env","",246,"False","False","",1,"C",20041,"['MWF 1045-1140']","Research",2004,9
 "900",8503,1,1361,"['SWRK']","",NA,"['Melissa Roberts']",200,"['HH 302', 'HH 302']","Social Work Methods I","",254,"False","False","",1,"C",20041,"['T 0800-0925', 'Th 0800-0920']","Research",2004,8

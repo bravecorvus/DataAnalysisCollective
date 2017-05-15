@@ -438,24 +438,6 @@
 "641",23875,1,1311,"['SOAN']",NA,"['Bruce Nordstrom-Loeb']",200,"['H 301']","Gender/X-Cult/Perspec",261,"False","False","",1,"O",19981,"['TTh 0120-0245PM']","Research",1998,21
 "642",23876,1,1316,"['SOAN']",NA,"['Samiha Peterson']",200,"","IS/Soc of Education",298,"False","False","",1,"O",19981,"","Research",1998,1
 "643",23877,1,1317,"['SOAN']",NA,"['Michael Leming']",300,"['H 515']","Found Soc Sci Resrch",371,"False","False","",1,"O",19981,"['TTh 0935-1100']","Research",1998,12
-"644",23878,1,1324,"['SPAN']",NA,"['Joan Odd']",100,"['M 20']","Beginning Spanish I",111,"False","False","A",1,"O",19981,"['MWF 0800-0855']","Research",1998,15
-"645",23879,1,1324,"['SPAN']",NA,"['Joan Odd']",100,"['M 20']","Beginning Spanish I",111,"False","False","B",1,"O",19981,"['MWF 1150-1245PM']","Research",1998,24
-"646",23882,1,1325,"['SPAN']",NA,"['Sylvia Carullo']",100,"['M 4']","Beginning Spanish II",112,"False","False","A",1,"O",19981,"['MWF 0905-1000']","Research",1998,22
-"647",23883,1,1325,"['SPAN']",NA,"['Sylvia Carullo']",100,"['M 20']","Beginning Spanish II",112,"False","False","B",1,"C",19981,"['MWF 1045-1140']","Research",1998,26
-"648",23887,1,1326,"['SPAN']",NA,"['Gwendolyn Barnes-Karol']",200,"['M 21']","Intermed Spanish I",231,"False","False","B",1,"C",19981,"['MWF 0905-1000']","Research",1998,26
-"649",23888,1,1326,"['SPAN']",NA,"['Maggie Broner']",200,"['M 20']","Intermed Spanish I",231,"False","False","C",1,"C",19981,"['MWF 0905-1000']","Research",1998,27
-"650",23889,1,1326,"['SPAN']",NA,"['Gwendolyn Barnes-Karol']",200,"['M 21']","Intermed Spanish I",231,"False","False","D",1,"C",19981,"['MWF 1045-1140']","Research",1998,26
-"651",23890,1,1326,"['SPAN']",NA,"['Maggie Broner']",200,"['M 21']","Intermed Spanish I",231,"False","False","E",1,"C",19981,"['MWF 1150-1245PM']","Research",1998,28
-"652",23891,1,1326,"['SPAN']",NA,"['Frank L. Odd']",200,"['M 20']","Intermed Spanish I",231,"False","False","F",1,"C",19981,"['MWF 1255-0150PM']","Research",1998,25
-"653",23892,1,1327,"['SPAN']",NA,"['Frank L. Odd']",200,"['M 21']","Intermed Spanish II",232,"False","False","A",1,"O",19981,"['TTh 0800-0925']","Research",1998,22
-"654",23893,1,1327,"['SPAN']",NA,"['James A. Dunlop']",200,"['M 20']","Intermed Spanish II",232,"False","False","B",1,"C",19981,"['TTh 0935-1100']","Research",1998,20
-"655",23894,1,1327,"['SPAN']",NA,"['Frank L. Odd']",200,"['M 21']","Intermed Spanish II",232,"False","False","C",1,"O",19981,"['TTh 1145-0110PM']","Research",1998,21
-"656",23895,1,1327,"['SPAN']",NA,"['James A. Dunlop']",200,"['M 20']","Intermed Spanish II",232,"False","False","D",1,"O",19981,"['TTh 0120-0245PM']","Research",1998,24
-"657",23896,1,1331,"['SPAN']",NA,"['Gwendolyn Barnes-Karol']",200,"['M 21']","Cult & Civ of Spain",251,"False","False","",1,"O",19981,"['TTh 0120-0245PM']","Research",1998,14
-"658",23897,1,1332,"['SPAN']",NA,"['Maggie Broner']",200,"['M 20']","Cult & Civ of Lat Am",254,"False","False","",1,"O",19981,"['TTh 1145-0110PM']","Research",1998,14
-"659",23898,1,1341,"['SPAN']",NA,"['Sylvia Carullo']",200,"","Academic Internship",294,"True","False","",1,"O",19981,"","Research",1998,1
-"660",23899,1,1350,"['SPAN']",NA,"['James A. Dunlop']",300,"['M 21']","Spanish Poetry",375,"False","False","",1,"O",19981,"['MWF 0200-0255PM']","Research",1998,24
-"661",23900,1,1353,"['SPAN']",NA,"['Sylvia Carullo']",300,"['M 31']","Lat Am Lit 1940-Pres",388,"False","False","",1,"O",19981,"['TTh 0120-0245PM']","Research",1998,14
 "662",23901,1,1359,"['SWRK']",NA,"['Mary Carlsen']",200,"['L 177']","Soc Work/Soc Services",221,"False","False","",1,"O",19981,"['MWF 1255-0150PM']","Research",1998,23
 "663",23902,1,2447,"['SWRK']",NA,"['Mary Carlsen']",200,"['M 1']","Soc Welfare/Glob Comm",231,"False","False","",1,"O",19981,"['TTh 1145-0110PM']","Research",1998,15
 "664",23903,1,1360,"['SWRK']",NA,"['Mary Carlsen']",200,"['M 36']","Hum Behav in Soc Env",246,"False","False","",1,"O",19981,"['MWF 1045-1140']","Research",1998,7

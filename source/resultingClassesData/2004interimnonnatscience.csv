@@ -106,10 +106,6 @@
 "147",8850,1,625,"['HIST']","","['Robert Entenmann']",200,"","IS/Okinawa & A. Bomb",298,"False","False","",2,"O",20042,"","Research",2004,1
 "148",8851,1,640,"['HIST']","","['Staff']",300,"","Academic Internship",394,"True","False","",2,"O",20042,"","Research",2004,0
 "149",8852,1,642,"['HIST']","","['Robert Nichols']",300,"","IR/Orth/ISlamic Rltns",398,"False","False","",2,"O",20042,"","Research",2004,1
-"150",8853,1,643,"['HSPST']","","['Juliet A. Lynd']",200,"","Academic Internship",294,"True","False","",2,"O",20042,"","Research",2004,1
-"151",8854,1,644,"['HSPST']","","['Staff']",200,"","IS/",298,"False","False","",2,"O",20042,"","Research",2004,0
-"152",8855,1,646,"['HSPST']","","['Staff']",300,"","Academic Internship",394,"True","False","",2,"O",20042,"","Research",2004,0
-"153",8856,1,647,"['HSPST']","","['Staff']",300,"","IR/",398,"False","False","",2,"O",20042,"","Research",2004,0
 "154",8857,1,653,"['FAMST']","","['Mary Carlsen']",200,"","Academic Internship",294,"True","False","",2,"O",20042,"","Research",2004,1
 "155",8858,1,653,"['FAMST']","","['Robert W. McClure']",200,"","Academic Internship",294,"True","False","A",2,"O",20042,"","Research",2004,0
 "156",8859,1,654,"['FAMST']","","['Staff']",200,"","IS/",298,"False","False","",2,"O",20042,"","Research",2004,0
@@ -212,14 +208,6 @@
 "282",8985,1,1316,"['SOAN']","","['Christopher L. Chiappari']",200,"","IS/Health & Cambodia",298,"False","False","A",2,"O",20042,"","Research",2004,1
 "283",8986,1,1319,"['SOAN']","","['Staff']",300,"","Academic Internship",394,"True","False","",2,"O",20042,"","Research",2004,0
 "284",8987,1,1320,"['SOAN']","","['Staff']",300,"","IR/",398,"False","False","",2,"O",20042,"","Research",2004,0
-"286",8989,1,1324,"['SPAN']","","['Sylvia Carullo']",100,"['OM 021']","Beginning Spanish I",111,"False","False","",2,"C",20042,"['M-F 1040-1240PM']","Research",2004,28
-"287",8990,1,1328,"['SPAN']","['MCG']","['Ariel Strichartz']",200,"","Inter Span II-Ecuador",233,"False","False","",2,"C",20042,"","Research",2004,22
-"288",8991,1,1329,"['SPAN']","","['Joseph McClanahan']",200,"","Inter Span II-C Rica",234,"False","False","",2,"C",20042,"","Research",2004,21
-"289",8992,1,1334,"['SPAN']","","['Gwendolyn Barnes-Karol']",200,"","Spain's Cult/Ling",270,"False","False","",2,"C",20042,"","Research",2004,10
-"290",8993,1,1341,"['SPAN']","","['Gwendolyn Barnes-Karol']",200,"","Academic Internship",294,"True","False","",2,"O",20042,"","Research",2004,1
-"291",8994,1,1342,"['SPAN']","","['Juliet A. Lynd']",200,"","IS/Lit Post-Dictater",298,"False","False","",2,"O",20042,"","Research",2004,1
-"292",8995,1,1354,"['SPAN']","","['Staff']",300,"","Academic Internship",394,"True","False","",2,"O",20042,"","Research",2004,0
-"293",8996,1,1355,"['SPAN']","","['Staff']",300,"","IR/",398,"False","False","",2,"O",20042,"","Research",2004,0
 "294",8997,1,1357,"['SWRK']","","['Mary Carlsen']",100,"['HH 403', 'HH 403']","I Want to Help People",120,"False","False","",2,"C",20042,"['T-F 0830-1000', 'T-F 0100-0300PM']","Research",2004,28
 "295",8998,1,1362,"['SWRK']","","['Naurine Lennox']",200,"","Fam Soc Srv Cntrl Mex",256,"False","False","",2,"C",20042,"","Research",2004,22
 "296",8999,1,1366,"['SWRK']","","['Staff']",200,"","Academic Internship",294,"True","False","",2,"O",20042,"","Research",2004,0

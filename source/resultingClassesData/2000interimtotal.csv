@@ -92,7 +92,6 @@
 "92",859,1,606,"['HIST']","","['Jeane DeLaney']",200,"['H 317']","20th Century Cuba",258,"False","False","",2,"O",20002,"['M-F 1040-1240PM']","Research",2000,14
 "93",860,1,613,"['HIST']","","['Helena Pohlandt-McCormick']",200,"","Landscapes/So Africa",264,"False","False","",2,"C",20002,"","Research",2000,17
 "94",861,1,642,"['HIST']","","['Stephen Blake']",300,"","IR/Adv British India",398,"False","False","",2,"O",20002,"","Research",2000,1
-"95",862,1,643,"['HSPST']","","['David Schodt']",200,"","Academic Internship",294,"True","False","",2,"O",20002,"","Research",2000,1
 "96",863,1,652,"['FAMST']","","['C. George Holt']",200,"","Aboriginal Cult/Austr",263,"False","False","",2,"C",20002,"","Research",2000,26
 "97",864,1,656,"['FAMST']","","['C. George Holt']",300,"","Academic Internship",394,"True","False","",2,"O",20002,"","Research",2000,1
 "98",865,1,675,"['IS']","","['David Booth']",200,"['H 514']","Topic: Ethics & Embodmnt",204,"False","False","",2,"O",20002,"['M-F 0100-0300PM']","Topic",2000,21
@@ -171,10 +170,6 @@
 "171",938,1,2423,"['SOAN']","","['Mark Goodale']",200,"['H 515']","Writing Culture",234,"False","False","",2,"O",20002,"['M-Th 0100-0330PM']","Research",2000,10
 "172",939,1,1315,"['SOAN']","","['Carolyn Anderson']",200,"","Academic Internship",294,"True","False","",2,"O",20002,"","Research",2000,2
 "173",940,1,1315,"['SOAN']","","['Christopher L. Chiappari']",200,"","Academic Internship",294,"True","False","A",2,"O",20002,"","Research",2000,1
-"174",941,1,1325,"['SPAN']","","['Terri Greenslade']",100,"['M 21']","Beginning Spanish II",112,"False","False","",2,"O",20002,"['M-F 1040-1240PM']","Research",2000,13
-"175",942,1,1328,"['SPAN']","['MCG']","['Frank L. Odd']",200,"","Ad Inter Span-Ecuador",233,"False","False","",2,"C",20002,"","Research",2000,21
-"176",943,1,1329,"['SPAN']","","['Maggie Broner']",200,"","Ad Int Spa-Costa Rica",234,"False","False","",2,"C",20002,"","Research",2000,20
-"177",944,1,1355,"['SPAN']","","['Gwendolyn Barnes-Karol']",300,"","IR/Contemporary Spain",398,"False","False","",2,"O",20002,"","Research",2000,1
 "178",945,1,1362,"['SWRK']","","['Naurine Lennox']",200,"","Fam Soc Srv Cntrl Mex",256,"False","False","",2,"C",20002,"","Research",2000,20
 "179",946,1,1367,"['SWRK']","","['Naurine Lennox']",200,"","IS/Social Work Survey",298,"False","False","",2,"O",20002,"","Research",2000,1
 "180",947,1,1380,"['THEAT']","","['Brian Bjorklund']",100,"['KELSEY', 'KELSEY', 'KELSEY']","Prod Theater: Intro",133,"True","False","",2,"C",20002,"['M-F 0900-1000', 'M-F 1040-0500PM', 'M-F 0700-1000PM']","Research",2000,15

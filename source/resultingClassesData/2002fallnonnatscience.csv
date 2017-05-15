@@ -192,7 +192,6 @@
 "336",4025,1,642,"['HIST']",NA,"['Judy Kutulas']",300,"","IR/Women in Music",398,"False","False","B",1,"O",20021,"","Research",2002,1
 "337",4026,1,642,"['HIST']",NA,"['J. L. Carrington']",300,"","IR/Joan of Arc",398,"False","False","C",1,"O",20021,"","Research",2002,1
 "338",4027,1,642,"['HIST']",NA,"['James Farrell']",300,"","IR/A Cartoon History",398,"False","False","D",1,"O",20021,"","Research",2002,1
-"339",4028,1,644,"['HSPST']",NA,"['Christopher L. Chiappari']",200,"","IS/L Amer Pol IDent",298,"False","False","",1,"O",20021,"","Research",2002,1
 "340",4029,1,648,"['FAMST']",NA,"['C. George Holt']",200,"['H 317', 'H 317']","Intro: Family Studies",232,"False","False","",1,"C",20021,"['T 0935-1100', 'Th 0930-1050']","Research",2002,30
 "341",4030,1,651,"['FAMST']",NA,"['C. George Holt']",200,"['H 501', 'H 501']","Human Sexuality",253,"False","False","",1,"C",20021,"['T 0120-0245PM', 'Th 0215-0335PM']","Research",2002,50
 "342",4031,1,653,"['FAMST']",NA,"['C. George Holt']",200,"","Academic Internship",294,"True","False","",1,"O",20021,"","Research",2002,1
@@ -351,29 +350,6 @@
 "663",4353,1,1316,"['SOAN']",NA,"['Thomas A. Williamson']",200,"","IS/Examining Bound",298,"False","False","",1,"O",20021,"","Research",2002,1
 "664",4354,1,1316,"['SOAN']",NA,"['Phyllis G. Myers']",200,"","IS/Sports Business",298,"False","False","A",1,"O",20021,"","Research",2002,1
 "665",4355,1,1317,"['SOAN']",NA,"['Deborah Engelen-Eigles']",300,"['SC 184', 'SC 184']","Found Soc Sci Resrch",371,"False","False","",1,"O",20021,"['T 0935-1100', 'Th 0930-1050']","Research",2002,20
-"666",4356,1,1324,"['SPAN']",NA,"['Meritxell Pont']",100,"['M 20']","Beginning Spanish I",111,"False","False","A",1,"C",20021,"['MWF 0800-0855']","Research",2002,23
-"667",4357,1,1325,"['SPAN']",NA,"['Sylvia Carullo']",100,"['M 20']","Beginning Spanish II",112,"False","False","B",1,"O",20021,"['MWF 1045-1140']","Research",2002,23
-"668",4358,1,1325,"['SPAN']",NA,"['Meritxell Pont']",100,"['M 20']","Beginning Spanish II",112,"False","False","C",1,"O",20021,"['MWF 1150-1245PM']","Research",2002,21
-"669",4359,1,1325,"['SPAN']",NA,"['Meritxell Pont']",100,"['M 31']","Beginning Spanish II",112,"False","False","D",1,"O",20021,"['MWF 1255-0150PM']","Research",2002,21
-"670",4360,1,1325,"['SPAN']",NA,"['Sylvia Carullo']",100,"['M 35']","Beginning Spanish II",112,"False","False","E",1,"O",20021,"['MWF 0200-0255PM']","Research",2002,15
-"671",4361,1,1326,"['SPAN']",NA,"['Leon Narvaez']",200,"['M 21']","Intermed Spanish I",231,"False","False","A",1,"C",20021,"['MWF 0800-0855']","Research",2002,24
-"672",4362,1,1326,"['SPAN']",NA,"['Leon Narvaez']",200,"['M 21']","Intermed Spanish I",231,"False","False","B",1,"C",20021,"['MWF 0905-1000']","Research",2002,23
-"673",4363,1,1326,"['SPAN']",NA,"['Maggie Broner']",200,"['M 21']","Intermed Spanish I",231,"False","False","C",1,"C",20021,"['MWF 1045-1140']","Research",2002,26
-"674",4364,1,1326,"['SPAN']",NA,"['Maggie Broner']",200,"['M 21']","Intermed Spanish I",231,"False","False","D",1,"C",20021,"['MWF 1150-1245PM']","Research",2002,22
-"675",4365,1,1326,"['SPAN']",NA,"['Kris A. Cropsey']",200,"['M 20']","Intermed Spanish I",231,"False","False","E",1,"C",20021,"['MWF 1255-0150PM']","Research",2002,23
-"676",4366,1,1326,"['SPAN']",NA,"['Ariel Strichartz']",200,"['M 20']","Intermed Spanish I",231,"False","False","F",1,"C",20021,"['MWF 0200-0255PM']","Research",2002,25
-"677",4367,1,1326,"['SPAN']",NA,"['Joan Odd']",200,"['M 21']","Intermed Spanish I",231,"False","False","G",1,"C",20021,"['MWF 1255-0150PM']","Research",2002,23
-"678",4368,1,1327,"['SPAN']",NA,"['Kris A. Cropsey']",200,"['M 20', 'M 20']","Intermed Spanish II",232,"False","False","A",1,"C",20021,"['T 0800-0925', 'Th 0800-0920']","Research",2002,25
-"679",4369,1,1327,"['SPAN']",NA,"['Kris A. Cropsey']",200,"['M 20', 'M 20']","Intermed Spanish II",232,"False","False","B",1,"C",20021,"['T 0935-1100', 'Th 0930-1050']","Research",2002,23
-"680",4370,1,1327,"['SPAN']",NA,"['Ariel Strichartz']",200,"['M 20', 'M 20']","Intermed Spanish II",232,"False","False","C",1,"C",20021,"['T 1145-0110PM', 'Th 1245-0205PM']","Research",2002,28
-"681",4371,1,1327,"['SPAN']",NA,"['Ariel Strichartz']",200,"['M 20', 'M 20']","Intermed Spanish II",232,"False","False","D",1,"C",20021,"['T 0120-0245PM', 'Th 0215-0335PM']","Research",2002,26
-"682",4372,1,1327,"['SPAN']",NA,"['Joan Odd']",200,"['M 15', 'M 15']","Intermed Spanish II",232,"False","False","E",1,"C",20021,"['T 0120-0245PM', 'Th 0215-0335PM']","Research",2002,27
-"683",4373,1,1327,"['SPAN']",NA,"['Joan Odd']",200,"['M 21', 'M 21']","Intermed Spanish II",232,"False","False","F",1,"C",20021,"['T 0800-0925', 'Th 0800-0920']","Research",2002,26
-"684",4374,1,1331,"['SPAN']",NA,"['Gwendolyn Barnes-Karol']",200,"['M 21', 'M 21']","Cult & Civ of Spain",251,"False","False","A",1,"C",20021,"['T 1145-0110PM', 'Th 1245-0205PM']","Research",2002,28
-"685",4375,1,1331,"['SPAN']",NA,"['Leon Narvaez']",200,"['M 21', 'M 21']","Cult & Civ of Spain",251,"False","False","B",1,"C",20021,"['T 0120-0245PM', 'Th 0215-0335PM']","Research",2002,18
-"686",4376,1,1332,"['SPAN']",NA,"['Maggie Broner']",200,"['M 21']","Cult & Civ of Lat Am",254,"False","False","",1,"O",20021,"['MWF 0200-0255PM']","Research",2002,14
-"687",4377,1,1350,"['SPAN']",NA,"['James A. Dunlop']",300,"['M 21', 'M 21']","Spanish Poetry",375,"False","False","",1,"C",20021,"['T 0935-1100', 'Th 0930-1050']","Research",2002,28
-"688",4378,1,1353,"['SPAN']",NA,"['Sylvia Carullo']",300,"['M 31', 'M 31']","Lat Am Lit 1940-Pres",388,"False","False","",1,"O",20021,"['T 0120-0245PM', 'Th 0215-0335PM']","Research",2002,12
 "689",4379,1,1359,"['SWRK']",NA,"['Charlynn Overvoorde']",200,"['H 301']","Soc Work/Soc Services",221,"False","False","",1,"C",20021,"['MWF 1255-0150PM']","Research",2002,24
 "690",4380,1,1360,"['SWRK']",NA,"['Charlynn Overvoorde']",200,"['H 514']","Hum Behav in Soc Env",246,"False","False","",1,"C",20021,"['MWF 1045-1140']","Research",2002,17
 "691",4381,1,1361,"['SWRK']",NA,"['Charlynn Overvoorde']",200,"['H 514', 'H 514']","Social Work Methods I",254,"False","False","",1,"O",20021,"['T 1145-0110PM', 'Th 1245-0205PM']","Research",2002,15

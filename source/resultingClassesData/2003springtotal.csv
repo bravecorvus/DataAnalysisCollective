@@ -278,8 +278,6 @@
 "360",7030,1,642,"['HIST']",NA,"['Helena Pohlandt-McCormick']",300,"","IR/Whites & Apartheid",398,"False","False","D",3,"O",20033,"","Research",2003,1
 "361",7031,1,642,"['HIST']",NA,"['Eric J. Fure-Slocum']",300,"","IR/Korten/Hmn Develop",398,"False","False","E",3,"O",20033,"","Research",2003,1
 "362",7032,1,642,"['HIST']",NA,"['Timothy R. Howe']",300,"","IR/Pedagogy of Hist",398,"False","False","F",3,"O",20033,"","Research",2003,1
-"363",7033,1,644,"['HSPST']",NA,"['Jeane DeLaney']",200,"","IS/Shining Path: Peru",298,"False","False","",3,"O",20033,"","Research",2003,1
-"364",7034,1,647,"['HSPST']",NA,"['Christopher L. Chiappari']",300,"","IR/Hispanics Northfld",398,"False","False","",3,"O",20033,"","Research",2003,1
 "365",7035,1,649,"['FAMST']",NA,"['C. George Holt']",200,"['BMC 111']","Family Relationships",242,"False","False","",3,"C",20033,"['MWF 1045-1140']","Research",2003,36
 "366",7036,1,651,"['FAMST']",NA,"['C. George Holt']",200,"['HH 501', 'HH 501']","Human Sexuality",253,"False","False","",3,"C",20033,"['T 0120-0245PM', 'Th 0215-0335PM']","Research",2003,52
 "367",7037,1,653,"['FAMST']",NA,"['C. George Holt']",200,"","Academic Internship",294,"True","False","",3,"O",20033,"","Research",2003,2
@@ -553,25 +551,6 @@
 "738",7410,1,1318,"['SOAN']",NA,"['Carolyn Anderson']",300,"['HH 515']","Ethnograph Rsch Meth",373,"False","False","",3,"O",20033,"['MWF 0200-0255PM']","Research",2003,14
 "739",7411,1,1320,"['SOAN']",NA,"['Christopher L. Chiappari']",300,"","IR/Immigrant Labor-MN",398,"False","False","",3,"O",20033,"","Research",2003,1
 "740",7412,1,1321,"['SOAN']",NA,"['Bruce Nordstrom-Loeb']",300,"['HH 514']","Soc/Anthro and Ethics",399,"False","False","",3,"O",20033,"['MWF 1150-1245PM']","Research",2003,18
-"741",7413,1,1324,"['SPAN']",NA,"['Barbara Olson']",100,"['OM 020']","Beginning Spanish I",111,"False","False","",3,"O",20033,"['MWF 1150-1245PM']","Research",2003,13
-"742",7414,1,1325,"['SPAN']",NA,"['Joseph McClanahan']",100,"['OM 020']","Beginning Spanish II",112,"False","False","A",3,"O",20033,"['MWF 1255-0150PM']","Research",2003,15
-"743",7415,1,1325,"['SPAN']",NA,"['Joseph McClanahan']",100,"['OM 020']","Beginning Spanish II",112,"False","False","B",3,"C",20033,"['MWF 0800-0855']","Research",2003,16
-"744",7416,1,1326,"['SPAN']",NA,"['Leon Narvaez']",200,"['OM 020']","Intermed Spanish I",231,"False","False","B",3,"C",20033,"['MWF 0905-1000']","Research",2003,18
-"745",7417,1,1326,"['SPAN']",NA,"['Juliet A. Lynd']",200,"['OM 020']","Intermed Spanish I",231,"False","False","C",3,"C",20033,"['MWF 1045-1140']","Research",2003,19
-"746",7418,1,1326,"['SPAN']",NA,"['Gwendolyn Barnes-Karol']",200,"['OM 030']","Intermed Spanish I",231,"False","False","D",3,"C",20033,"['MWF 1150-1245PM']","Research",2003,25
-"747",7419,1,1326,"['SPAN']",NA,"['Juliet A. Lynd']",200,"['OM 020']","Intermed Spanish I",231,"False","False","E",3,"C",20033,"['MWF 1255-0150PM']","Research",2003,22
-"748",7420,1,1327,"['SPAN']",NA,"['Joan Odd']",200,"['OM 021']","Intermed Spanish II",232,"False","False","A",3,"C",20033,"['MWF 0905-1000']","Research",2003,16
-"749",7421,1,1327,"['SPAN']",NA,"['Joan Odd']",200,"['OM 021']","Intermed Spanish II",232,"False","False","B",3,"C",20033,"['MWF 1045-1140']","Research",2003,21
-"750",7422,1,1327,"['SPAN']",NA,"['Joan Odd']",200,"['OM 021']","Intermed Spanish II",232,"False","False","C",3,"C",20033,"['MWF 1150-1245PM']","Research",2003,21
-"751",7423,1,1327,"['SPAN']",NA,"['Kris A. Cropsey']",200,"['OM 020', 'OM 020']","Intermed Spanish II",232,"False","False","D",3,"C",20033,"['T 0800-0925', 'Th 0800-0920']","Research",2003,21
-"752",7424,1,1327,"['SPAN']",NA,"['Kris A. Cropsey']",200,"['OM 020', 'OM 020']","Intermed Spanish II",232,"False","False","E",3,"C",20033,"['T 0935-1100', 'Th 0930-1050']","Research",2003,23
-"753",7425,1,1327,"['SPAN']",NA,"['Joan Odd']",200,"['OM 020', 'OM 020']","Intermed Spanish II",232,"False","False","F",3,"C",20033,"['T 1145-0110PM', 'Th 1245-0205PM']","Research",2003,25
-"754",7426,1,1327,"['SPAN']",NA,"['Joseph McClanahan']",200,"['OM 021', 'OM 021']","Intermed Spanish II",232,"False","False","G",3,"C",20033,"['T 0120-0245PM', 'Th 0215-0335PM']","Research",2003,24
-"755",7427,1,1331,"['SPAN']",NA,"['Gwendolyn Barnes-Karol']",200,"['OM 021', 'OM 021']","Cult & Civ of Spain",251,"False","False","",3,"O",20033,"['T 1145-0110PM', 'Th 1245-0205PM']","Research",2003,24
-"756",7428,1,1332,"['SPAN']",NA,"['Juliet A. Lynd']",200,"['OM 021']","Cult & Civ of Lat Am",254,"False","False","A",3,"C",20033,"['MWF 0200-0255PM']","Research",2003,15
-"757",7429,1,1332,"['SPAN']",NA,"['Leon Narvaez']",200,"['OM 030']","Cult & Civ of Lat Am",254,"False","False","B",3,"C",20033,"['MWF 0200-0255PM']","Research",2003,13
-"758",7430,1,1333,"['SPAN']",NA,"['Maggie Broner']",200,"['OM 021']","Hispanic Linguistics",261,"False","False","",3,"C",20033,"['MWF 1255-0150PM']","Research",2003,28
-"759",7431,1,1352,"['SPAN']",NA,"['Ariel Strichartz']",300,"['OM 021', 'OM 021']","Lat Am Lit to 1940",387,"False","False","",3,"O",20033,"['T 0935-1100', 'Th 0930-1050']","Research",2003,11
 "760",7432,1,1363,"['SWRK']",NA,"['Mary Carlsen']",200,"['HH 317']","Social Policy",258,"False","False","",3,"C",20033,"['MWF 1150-1245PM']","Research",2003,22
 "761",7433,1,1364,"['SWRK']",NA,"['Naurine Lennox']",200,"['HH 516', 'HH 516']","Social Work Methds II",261,"False","False","",3,"O",20033,"['T 0935-1100', 'Th 0930-1050']","Research",2003,9
 "762",7434,1,1365,"['SWRK']",NA,"['Charlynn Overvoorde']",200,"['SC 130', 'SC 130']","Eval/Sw Practice/Prog",274,"False","False","",3,"O",20033,"['T 1145-0110PM', 'Th 1245-0205PM']","Research",2003,11

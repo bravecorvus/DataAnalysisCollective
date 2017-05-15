@@ -243,7 +243,6 @@
 "337",24587,1,642,"['HIST']",NA,"['Odd S. Lovoll']",300,"","IR/Nordic Baltic Rel",398,"False","False","A",3,"O",19983,"","Research",1998,1
 "338",24588,1,642,"['HIST']",NA,"['Judy Kutulas']",300,"","IR/Hist & Hollywood",398,"False","False","B",3,"O",19983,"","Research",1998,1
 "339",24589,1,642,"['HIST']",NA,"['Odd S. Lovoll']",300,"","IR/Family History",398,"False","False","C",3,"O",19983,"","Research",1998,1
-"340",24590,1,645,"['HSPST']",NA,"['David Schodt']",300,"['M 4']","Cont ISSues/Lat Amer",333,"False","False","",3,"O",19983,"['TTh 0935-1100']","Research",1998,15
 "342",24592,1,1875,"['FAMST']",NA,"['Rebecca A. Benedict']",200,"['H 209']","Nutrit & Food Choices",236,"False","False","",3,"O",19983,"['MWF 0905-1000']","Research",1998,8
 "345",24595,1,649,"['FAMST']",NA,"['C. George Holt']",200,"['L 277']","Family Relationships",242,"False","False","A",3,"C",19983,"['MWF 1045-1140']","Research",1998,27
 "346",24596,1,649,"['FAMST']",NA,"['C. George Holt']",200,"['H 317']","Family Relationships",242,"False","False","B",3,"O",19983,"['MWF 1150-1245PM']","Research",1998,22
@@ -457,19 +456,6 @@
 "669",24971,1,1316,"['SOAN']",NA,"['Bruce Nordstrom-Loeb']",200,"","IS/Blk & Lat Fem Theo",298,"False","False","A",3,"O",19983,"","Research",1998,1
 "670",24972,1,2442,"['SOAN']",NA,"['Raymond DeVries']",300,"['H 477']","Data Collect/Analysis",372,"False","False","",3,"O",19983,"['MWF 1045-1140']","Research",1998,12
 "671",24973,1,1321,"['SOAN']",NA,"['Bruce Nordstrom-Loeb']",300,"['H 514']","Soc/Anthro and Ethics",399,"False","False","",3,"C",19983,"['TTh 0935-1100']","Research",1998,19
-"672",24976,1,1325,"['SPAN']",NA,"['Joan Odd']",100,"['M 20']","Beginning Spanish II",112,"False","False","C",3,"O",19983,"['MWF 1255-0150PM']","Research",1998,16
-"673",24977,1,1326,"['SPAN']",NA,"['Gwendolyn Barnes-Karol']",200,"['M 21']","Intermed Spanish I",231,"False","False","A",3,"C",19983,"['MWF 0905-1000']","Research",1998,26
-"674",24978,1,1326,"['SPAN']",NA,"['Maggie Broner']",200,"['M 20']","Intermed Spanish I",231,"False","False","B",3,"O",19983,"['MWF 1045-1140']","Research",1998,24
-"675",24981,1,1327,"['SPAN']",NA,"['James A. Dunlop']",200,"['M 21']","Intermed Spanish II",232,"False","False","A",3,"O",19983,"['MWF 1045-1140']","Research",1998,23
-"676",24983,1,1327,"['SPAN']",NA,"['Frank L. Odd']",200,"['M 31']","Intermed Spanish II",232,"False","False","C",3,"O",19983,"['TTh 0800-0925']","Research",1998,23
-"677",24984,1,1327,"['SPAN']",NA,"['Sylvia Carullo']",200,"['M 20']","Intermed Spanish II",232,"False","False","D",3,"O",19983,"['TTh 0935-1100']","Research",1998,24
-"678",24985,1,1327,"['SPAN']",NA,"['Sylvia Carullo']",200,"['M 30']","Intermed Spanish II",232,"False","False","E",3,"O",19983,"['TTh 1145-0110PM']","Research",1998,20
-"679",24987,1,1331,"['SPAN']",NA,"['James A. Dunlop']",200,"['M 21']","Cult & Civ of Spain",251,"False","False","A",3,"O",19983,"['TTh 0935-1100']","Research",1998,10
-"680",24988,1,1331,"['SPAN']",NA,"['James A. Dunlop']",200,"['M 20']","Cult & Civ of Spain",251,"False","False","B",3,"O",19983,"['TTh 1145-0110PM']","Research",1998,10
-"681",24989,1,1332,"['SPAN']",NA,"['Maggie Broner']",200,"['M 21']","Cult & Civ of Lat Am",254,"False","False","",3,"O",19983,"['MWF 0905-1000']","Research",1998,9
-"682",24990,1,1333,"['SPAN']",NA,"['Maggie Broner']",200,"['M 21']","Applied Linguistics",261,"False","False","",3,"O",19983,"['TTh 0800-0925']","Research",1998,20
-"683",24991,1,1342,"['SPAN']",NA,"['Frank L. Odd']",200,"","IS/Generacion De 1898",298,"False","False","",3,"O",19983,"","Research",1998,1
-"684",24992,1,1356,"['SPAN']",NA,"['Frank L. Odd']",300,"['M 21']","Seminar in Literature",399,"False","False","",3,"O",19983,"['TTh 1145-0110PM']","Research",1998,23
 "685",24993,1,1363,"['SWRK']",NA,"['Mary Carlsen']",200,"['L 177']","Social Policy",258,"False","False","",3,"O",19983,"['MWF 1150-1245PM']","Research",1998,22
 "686",24994,1,1364,"['SWRK']",NA,"['Naurine Lennox']",200,"['L 577']","Social Work Methds II",261,"False","False","",3,"O",19983,"['TTh 0120-0245PM']","Research",1998,8
 "687",24995,1,1365,"['SWRK']",NA,"['Naurine Lennox']",200,"['L 577']","Eval/Sw Practice/Prog",274,"False","False","",3,"O",19983,"['TTh 1145-0100PM']","Research",1998,8
