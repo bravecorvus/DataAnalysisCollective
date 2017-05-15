@@ -5,7 +5,7 @@ print(getwd())
 
 # Regular Expression Filters (Regular Expression are a way to search a string, say "abc" as any part of any other string of any other length. In our case, we used wildcard "*", which when used as "*abc*", allows R package grepl to search "abc" any part of a string of greater than or equal length. Hence, you would be able to find the string "abc" in any of the following string expressions: "abc", "aaaaaaabc", "wrtwetr428320abcifrebrii", "abc23ri42rfg9u", but not "aaaaaabbbbbbbbccccccc" or "cba")
 # SPM FILTER
-spm <<- glob2rx("*SPM*")
+spm <<- "*SPM*"
 # POSITIVE MATCHES (what we want)
 criticalclassesgrep <<- "* race *|* race-*|* race*|*Race*|*racial*|*africa*|*Africa*|*Asian*|*Middle East*|*Middle Eastern*|*Latin American*|*Latin American*|*latin American*|*latin American*|*racial justice*|*social justice*|* racism*|*critical race*|*Native American*|*native american*|*multicultural*|*Multicultural*|*ethnic*|*Ethnic*|*colonial*|*oriental*|*Oriental*|*colonist*|*Colonist*|*imperial*|*Imperial*"
 #DISCLUDE NATURAL SCIENCES FILTERS
