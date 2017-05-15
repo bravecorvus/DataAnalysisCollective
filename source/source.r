@@ -2,38 +2,14 @@ library(utils)
 #Manually reset based on where you clone the git repo
 setwd("/Users/andrewlee/Documents/Projects/School/CollectiveForChange/source")
 print(getwd())
+
+# Regular Expression Filters (Regular Expression are a way to search a string, say "abc" as any part of any other string of any other length. In our case, we used wildcard "*", which when used as "*abc*", allows R package grepl to search "abc" any part of a string of greater than or equal length. Hence, you would be able to find the string "abc" in any of the following string expressions: "abc", "aaaaaaabc", "wrtwetr428320abcifrebrii", "abc23ri42rfg9u", but not "aaaaaabbbbbbbbccccccc" or "cba")
 # SPM FILTER
 spm <<- glob2rx("*SPM*")
-
 # POSITIVE MATCHES (what we want)
-africanstudies <<- glob2rx("*African*")
-latinamericanstudies <<- glob2rx("*Latin American*")
-middleeasternstudies <<- glob2rx("*Middle Eastern*")
-middleeaststudies <<- glob2rx("*Middle East*")
-asianstudies <<- glob2rx("*Asian*")
-africaandtheamericas <<- glob2rx("Africa")
-race <<- glob2rx("*race*")
-race2 <<- glob2rx("*Race*")
-ethnic <<- glob2rx("*ethnic*")
-ethnic2 <<- glob2rx("*Ethnic*")
-genderstudies <<- glob2rx("*Gender*")
-genderstudies2 <<- glob2rx("*gender*")
-sexuality <<- glob2rx("*Sexuality*")
-sexuality2 <<- glob2rx("*sexuality*")
-
+criticalclassesgrep <<- "* race *|* race-*|* race*|*Race*|*racial*|*africa*|*Africa*|*Asian*|*Middle East*|*Middle Eastern*|*Latin American*|*Latin American*|*latin American*|*latin American*|*racial justice*|*social justice*|* racism*|*critical race*|*Native American*|*native american*|*multicultural*|*Multicultural*|*ethnic*|*Ethnic*|*colonial*|*oriental*|*Oriental*|*colonist*|*Colonist*|*imperial*|*Imperial*"
 #DISCLUDE NATURAL SCIENCES FILTERS
-bio <<- glob2rx("*BIO*")
-biomols <<- glob2rx("*BMOLS*")
-chem <<- glob2rx("*CHEM*")
-csci <<- glob2rx("*CSCI*")
-math <<- glob2rx("*MATH*")
-neuro <<- glob2rx("*NEURO*")
-phys <<- glob2rx("*PHYS*")
-psych <<- glob2rx("*PSYCH*")
-stat <<- glob2rx("*STAT*")
-chembio <<- glob2rx("*CH/BI*")
-envirobio <<- glob2rx("*BI/ES*")
-mscs <<- glob2rx("*MSCS*")
+naturalsciencegrep <<- "*BIO*|*BMOLS*|*CHEM*|*CSCI*|*MATH*|*NEURO*|*PHYS*|*PSYCH*|*STAT*|*CH/BI*|*BI/ES*|*MSCS*"
 
 makedata <- function(arg) {
 
@@ -42,7 +18,7 @@ makedata <- function(arg) {
 	interim <- read.csv(paste("https://stodevx.github.io/course-data/terms/", paste(arg, "2.csv", sep=""), sep=""), header=TRUE, stringsAsFactors=FALSE)
 	spring <- read.csv(paste("https://stodevx.github.io/course-data/terms/", paste(arg, "3.csv", sep=""), sep=""), header=TRUE, stringsAsFactors=FALSE)
 
-	# Since class enrollment is more sensitive, we specifically downloaded the data and added it to the repo
+	# Since class enrollment is more sensitive, we manualy downloaded the data and added it to this repo
 	enrollmentfall <- read.csv(paste("./data/", paste(arg, "1.csv", sep=""), sep=""), , header=TRUE, stringsAsFactors=FALSE)
 	enrollmentinterim <- read.csv(paste("./data/", paste(arg, "2.csv", sep=""), sep=""), header=TRUE, stringsAsFactors=FALSE)
 	enrollmentspring <- read.csv(paste("./data/", paste(arg, "3.csv", sep=""), sep=""), header=TRUE, stringsAsFactors=FALSE)
@@ -57,7 +33,7 @@ makedata <- function(arg) {
 	mergedinterim <- merge(interim, enrollmentinterim, by="clbid") 
 	mergedspring <- merge(spring, enrollmentspring, by="clbid") 
 
-	# Some of the enrollment data does not exist for all the classes we can get from StodevX. To make it more accurate, we perged such rows from the resulting data frame
+	# Some of the enrollment data does not exist for all the classes we can get from StodevX. To make it more accurate, we will perge such rows with NA values in the enrolled column from the resulting data frame
 	mergedfall <- mergedfall[complete.cases(mergedfall[, "enrolled"]),]
 	mergedinterim <- mergedinterim[complete.cases(mergedinterim[, "enrolled"]),]
 	mergedspring <- mergedspring[complete.cases(mergedspring[, "enrolled"]),]
@@ -67,27 +43,31 @@ makedata <- function(arg) {
 	# filter out SPM classes
 	mergedfall <- mergedfall[!(grepl(spm, mergedfall$department)),]
 	# Create new data frame with only Non-Natural Sciences Classes
-	nonatsciencefall <- mergedfall[!(grepl(bio, mergedfall$department) | grepl(biomols, mergedfall$department) | grepl(chem, mergedfall$department) | grepl(csci, mergedfall$department) | grepl(math, mergedfall$department) | grepl(neuro, mergedfall$department) | grepl(phys, mergedfall$department) | grepl(psych, mergedfall$department) | grepl(stat, mergedfall$department) | grepl(chembio, mergedfall$department) | grepl(envirobio, mergedfall$department) | grepl(mscs, mergedfall$department)),] 
+	nonatsciencefall <- mergedfall[!grepl(naturalsciencegrep, mergedfall$department),] 
+	# nonatsciencefall <- mergedfall[!(grepl(bio, mergedfall$department) | grepl(biomols, mergedfall$department) | grepl(chem, mergedfall$department) | grepl(csci, mergedfall$department) | grepl(math, mergedfall$department) | grepl(neuro, mergedfall$department) | grepl(phys, mergedfall$department) | grepl(psych, mergedfall$department) | grepl(stat, mergedfall$department) | grepl(chembio, mergedfall$department) | grepl(envirobio, mergedfall$department) | grepl(mscs, mergedfall$department)),] 
 	# New data frame for only the classes we are looking for done via grep to search for terms defined above makedata() function
-	filteredfall <- mergedfall[(grepl(africanstudies, mergedfall$name) | grepl(africanstudies, mergedfall$description) | grepl(africanstudies, mergedfall$name) | grepl(africanstudies, mergedfall$description) | grepl(latinamericanstudies, mergedfall$name) | grepl(latinamericanstudies, mergedfall$description) | grepl(middleeasternstudies, mergedfall$name) | grepl(middleeasternstudies, mergedfall$description) | grepl(middleeaststudies, mergedfall$name) | grepl(middleeaststudies, mergedfall$description) | grepl(asianstudies, mergedfall$name) | grepl(asianstudies, mergedfall$description) | grepl(africaandtheamericas, mergedfall$name) | grepl(africaandtheamericas, mergedfall$description) | grepl(race, mergedfall$name) | grepl(race, mergedfall$description) | grepl(race2, mergedfall$name) | grepl(race2, mergedfall$description) | grepl(ethnic, mergedfall$name) | grepl(ethnic, mergedfall$description) | grepl(ethnic2, mergedfall$name) | grepl(ethnic2, mergedfall$description) | grepl(genderstudies, mergedfall$name) | grepl(genderstudies, mergedfall$description) | grepl(genderstudies2, mergedfall$name) | grepl(genderstudies2, mergedfall$description)),]
+	filteredfall <- mergedfall[grepl(criticalclassesgrep, mergedfall$name) | grepl(criticalclassesgrep, mergedfall$description),]
+	# filteredfall <- mergedfall[(grepl(africanstudies, mergedfall$name) | grepl(africanstudies, mergedfall$description) | grepl(africanstudies, mergedfall$name) | grepl(africanstudies, mergedfall$description) | grepl(latinamericanstudies, mergedfall$name) | grepl(latinamericanstudies, mergedfall$description) | grepl(middleeasternstudies, mergedfall$name) | grepl(middleeasternstudies, mergedfall$description) | grepl(middleeaststudies, mergedfall$name) | grepl(middleeaststudies, mergedfall$description) | grepl(asianstudies, mergedfall$name) | grepl(asianstudies, mergedfall$description) | grepl(africaandtheamericas, mergedfall$name) | grepl(africaandtheamericas, mergedfall$description) | grepl(race, mergedfall$name) | grepl(race, mergedfall$description) | grepl(race2, mergedfall$name) | grepl(race2, mergedfall$description) | grepl(ethnic, mergedfall$name) | grepl(ethnic, mergedfall$description) | grepl(ethnic2, mergedfall$name) | grepl(ethnic2, mergedfall$description) | grepl(genderstudies, mergedfall$name) | grepl(genderstudies, mergedfall$description) | grepl(genderstudies2, mergedfall$name) | grepl(genderstudies2, mergedfall$description)),]
 	
 	# filter out everything that is < 1 credit
 	mergedinterim <- mergedinterim[mergedinterim$credits=="1",]
 	# filter out SPM classes
 	mergedinterim <- mergedinterim[!(grepl(spm, mergedinterim$department)),]
 	# Create new data frame with only Non-Natural Sciences Classes
-	nonatscienceinterim <- mergedinterim[!(grepl(bio, mergedinterim$department) | grepl(biomols, mergedinterim$department) | grepl(chem, mergedinterim$department) | grepl(csci, mergedinterim$department) | grepl(math, mergedinterim$department) | grepl(neuro, mergedinterim$department) | grepl(phys, mergedinterim$department) | grepl(psych, mergedinterim$department) | grepl(stat, mergedinterim$department) | grepl(chembio, mergedinterim$department) | grepl(envirobio, mergedinterim$department) | grepl(mscs, mergedinterim$department)),] 
+	nonatscienceinterim <- mergedinterim[!grepl(naturalsciencegrep, mergedinterim$department),] 
 	# New data frame for only the classes we are looking for done via grep to search for terms defined above makedata() function
-	filteredinterim <- mergedinterim[(grepl(africanstudies, mergedinterim$name) | grepl(africanstudies, mergedinterim$description) | grepl(africanstudies, mergedinterim$name) | grepl(africanstudies, mergedinterim$description) | grepl(latinamericanstudies, mergedinterim$name) | grepl(latinamericanstudies, mergedinterim$description) | grepl(middleeasternstudies, mergedinterim$name) | grepl(middleeasternstudies, mergedinterim$description) | grepl(middleeaststudies, mergedinterim$name) | grepl(middleeaststudies, mergedinterim$description) | grepl(asianstudies, mergedinterim$name) | grepl(asianstudies, mergedinterim$description) | grepl(africaandtheamericas, mergedinterim$name) | grepl(africaandtheamericas, mergedinterim$description) | grepl(race, mergedinterim$name) | grepl(race, mergedinterim$description) | grepl(race2, mergedinterim$name) | grepl(race2, mergedinterim$description) | grepl(ethnic, mergedinterim$name) | grepl(ethnic, mergedinterim$description) | grepl(ethnic2, mergedinterim$name) | grepl(ethnic2, mergedinterim$description) | grepl(genderstudies, mergedinterim$name) | grepl(genderstudies, mergedinterim$description) | grepl(genderstudies2, mergedinterim$name) | grepl(genderstudies2, mergedinterim$description)),]
+	filteredinterim <- mergedinterim[grepl(criticalclassesgrep, mergedinterim$name) | grepl(criticalclassesgrep, mergedinterim$description),]
+	# filteredinterim <- mergedinterim[(grepl(africanstudies, mergedinterim$name) | grepl(africanstudies, mergedinterim$description) | grepl(africanstudies, mergedinterim$name) | grepl(africanstudies, mergedinterim$description) | grepl(latinamericanstudies, mergedinterim$name) | grepl(latinamericanstudies, mergedinterim$description) | grepl(middleeasternstudies, mergedinterim$name) | grepl(middleeasternstudies, mergedinterim$description) | grepl(middleeaststudies, mergedinterim$name) | grepl(middleeaststudies, mergedinterim$description) | grepl(asianstudies, mergedinterim$name) | grepl(asianstudies, mergedinterim$description) | grepl(africaandtheamericas, mergedinterim$name) | grepl(africaandtheamericas, mergedinterim$description) | grepl(race, mergedinterim$name) | grepl(race, mergedinterim$description) | grepl(race2, mergedinterim$name) | grepl(race2, mergedinterim$description) | grepl(ethnic, mergedinterim$name) | grepl(ethnic, mergedinterim$description) | grepl(ethnic2, mergedinterim$name) | grepl(ethnic2, mergedinterim$description) | grepl(genderstudies, mergedinterim$name) | grepl(genderstudies, mergedinterim$description) | grepl(genderstudies2, mergedinterim$name) | grepl(genderstudies2, mergedinterim$description)),]
 	
 	# filter out everything that is < 1 credit
 	mergedspring <- mergedspring[mergedspring$credits=="1",]
 	# filter out SPM classes
 	mergedspring <- mergedspring[!(grepl(spm, mergedspring$department)),]
 	# Create new data frame with only Non-Natural Sciences Classes
-	nonatsciencespring <- mergedspring[!(grepl(bio, mergedspring$department) | grepl(biomols, mergedspring$department) | grepl(chem, mergedspring$department) | grepl(csci, mergedspring$department) | grepl(math, mergedspring$department) | grepl(neuro, mergedspring$department) | grepl(phys, mergedspring$department) | grepl(psych, mergedspring$department) | grepl(stat, mergedspring$department) | grepl(chembio, mergedspring$department) | grepl(envirobio, mergedspring$department) | grepl(mscs, mergedspring$department)),] 
+	nonatsciencespring <- mergedspring[!grepl(naturalsciencegrep, mergedspring$department),] 
 	# New data frame for only the classes we are looking for done via grep to search for terms defined above makedata() function
-	filteredspring <- mergedspring[(grepl(africanstudies, mergedspring$name) | grepl(africanstudies, mergedspring$description) | grepl(africanstudies, mergedspring$name) | grepl(africanstudies, mergedspring$description) | grepl(latinamericanstudies, mergedspring$name) | grepl(latinamericanstudies, mergedspring$description) | grepl(middleeasternstudies, mergedspring$name) | grepl(middleeasternstudies, mergedspring$description) | grepl(middleeaststudies, mergedspring$name) | grepl(middleeaststudies, mergedspring$description) | grepl(asianstudies, mergedspring$name) | grepl(asianstudies, mergedspring$description) | grepl(africaandtheamericas, mergedspring$name) | grepl(africaandtheamericas, mergedspring$description) | grepl(race, mergedspring$name) | grepl(race, mergedspring$description) | grepl(race2, mergedspring$name) | grepl(race2, mergedspring$description) | grepl(ethnic, mergedspring$name) | grepl(ethnic, mergedspring$description) | grepl(ethnic2, mergedspring$name) | grepl(ethnic2, mergedspring$description) | grepl(genderstudies, mergedspring$name) | grepl(genderstudies, mergedspring$description) | grepl(genderstudies2, mergedspring$name) | grepl(genderstudies2, mergedspring$description)),]
+	filteredspring <- mergedspring[grepl(criticalclassesgrep, mergedspring$name) | grepl(criticalclassesgrep, mergedspring$description),]
+	# filteredspring <- mergedspring[(grepl(africanstudies, mergedspring$name) | grepl(africanstudies, mergedspring$description) | grepl(africanstudies, mergedspring$name) | grepl(africanstudies, mergedspring$description) | grepl(latinamericanstudies, mergedspring$name) | grepl(latinamericanstudies, mergedspring$description) | grepl(middleeasternstudies, mergedspring$name) | grepl(middleeasternstudies, mergedspring$description) | grepl(middleeaststudies, mergedspring$name) | grepl(middleeaststudies, mergedspring$description) | grepl(asianstudies, mergedspring$name) | grepl(asianstudies, mergedspring$description) | grepl(africaandtheamericas, mergedspring$name) | grepl(africaandtheamericas, mergedspring$description) | grepl(race, mergedspring$name) | grepl(race, mergedspring$description) | grepl(race2, mergedspring$name) | grepl(race2, mergedspring$description) | grepl(ethnic, mergedspring$name) | grepl(ethnic, mergedspring$description) | grepl(ethnic2, mergedspring$name) | grepl(ethnic2, mergedspring$description) | grepl(genderstudies, mergedspring$name) | grepl(genderstudies, mergedspring$description) | grepl(genderstudies2, mergedspring$name) | grepl(genderstudies2, mergedspring$description)),]
 
 
 	# Write out intermediate data frames into CSV for checking purposes

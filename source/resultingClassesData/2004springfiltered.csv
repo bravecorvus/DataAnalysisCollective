@@ -1,9 +1,13 @@
 "","clbid","credits","crsid","departments","description","halfcredit","instructors","level","locations","name","notes","number","pn","prerequisites","section","semester","status","term","times","title","type","year","enrolled"
+"7",9133,1,17,"['AFAM']","",NA,"['Michael Fitzgerald']",200,"['RML 577']","Sem: Africa/Americas","",232,"False","False","",3,"C",20043,"['MWF 0905-1000']","","Seminar",2004,24
 "27",9153,1,63,"['ART']","",NA,"['Heather M. Brooks-Shirey']",200,"['DC 305', 'DC 305']","African Art History","",269,"False","False","",3,"O",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Research",2004,29
+"44",9170,1,77,"['ASIAN']","",NA,"['Robert Entenmann']",100,"['HH 514', 'HH 514']","East Asia & the West","",112,"False","False","",3,"C",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Research",2004,19
 "45",9171,1,78,"['ASIAN']","",NA,"['Karil J. Kucera']",100,"['DC 305']","Asian Cultures","",121,"False","False","",3,"C",20043,"['MWF 0200-0255PM']","","Research",2004,35
 "52",9178,1,97,"['ASIAN']","",NA,"['Phyllis Hyland Larson']",300,"","IR/Asian Studies Sem","",398,"False","False","A",3,"O",20043,"","","Research",2004,1
-"389",9515,1,602,"['HIST']","",NA,"['Dolores Peters']",200,"['HH 501']","Wmn/Gender/Mod Europe","",239,"False","False","",3,"O",20043,"['MWF 1045-1140']","","Research",2004,24
+"206",9332,1,314,"['EDUC']","",NA,"['Daniel R. Forstner']",200,"","IS/Multicultural Educ","",298,"False","False","",3,"O",20043,"","","Research",2004,1
+"272",9398,1,410,"['ENGL']","",NA,"['Joan Hepburn']",200,"['RML 525', 'RML 525']","Amer Racial/Multi Lit","",245,"False","False","",3,"O",20043,"['T 0800-0925', 'Th 0800-0920']","","Research",2004,47
+"390",9516,1,605,"['HIST']","",NA,"['Dennis R. Hidalgo']",200,"['HH 301', 'HH 301']","Modern Latin America","",242,"False","False","",3,"O",20043,"['T 1145-0110PM', 'Th 1245-0205PM']","","Research",2004,31
 "395",9521,1,618,"['HIST']","",NA,"['Michael Fitzgerald']",200,"['RML 577', 'RML 577']","African-American Hist","",277,"False","False","",3,"C",20043,"['T 0935-1100', 'Th 0930-1050']","","Research",2004,33
+"802",9928,1,1303,"['SOAN']","",NA,"['Thomas A. Williamson']",200,"['SH 02']","Modern Southeast Asia","",239,"False","False","",3,"C",20043,"['MWF 1255-0150PM']","","Research",2004,28
 "803",9929,1,1306,"['SOAN']","",NA,"['Bruce Nordstrom-Loeb']",200,"['OM 031']","Race/Class-Am Culture","",244,"False","False","A",3,"C",20043,"['MWF 1045-1140']","","Research",2004,31
 "804",9930,1,1306,"['SOAN']","",NA,"['Grant P. Arndt']",200,"['RML 577']","Race/Class-Am Culture","",244,"False","False","B",3,"C",20043,"['MWF 1150-1245PM']","","Research",2004,27
-"807",9933,1,1311,"['SOAN']","",NA,"['Bruce Nordstrom-Loeb']",200,"['OM 031']","Gender/X-Cult/Perspec","",261,"False","False","",3,"C",20043,"['MWF 0200-0255PM']","","Research",2004,34
