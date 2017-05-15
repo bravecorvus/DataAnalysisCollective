@@ -1,39 +1,5 @@
-#Terms we used to look for classes about critical studies
-race
-racial
-Race
-Africa
-Asian
-Middle East
-Middle Eastern
-Latin American
-racial justice
-social justice
-racist
-racism
-critical race
-native american 
-race & ethnic studies
-race and ethnic studies
-american racial & multicultural studies
-american racial and multicultural studies
-african american
-african-american
-ethnic
-Ethnic
-ethnic studies
-ethnicity
-colonialism
-orientalism
-colonial
-colonist
-imperial
-imperialism
-imperialist
+#Regular Expression Terms we used to look for classes about critical studies (Separated by lines)#
 
-
-#Actual Regular Expression Used (Carefully double checked with regular expression dictionary to ensure that search scope is not too wide) + Redundant Entries Removed
-* race *
 * race-*
 * race*
 *Race*
